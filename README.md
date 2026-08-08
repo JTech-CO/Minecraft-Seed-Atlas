@@ -2,6 +2,10 @@
 
 Minecraft Java Edition 26.2, 26.1, 1.21 계열의 독특한 바이옴·지형 시드 251개를 검색하고 복사할 수 있는 빌드 과정 없는 정적 웹사이트입니다.
 
+![Main Page](assets/main.png)
+
+사이트 링크: https://jtech-co.github.io/Minecraft-Seed-Atlas/ 
+
 ## 기능
 
 - 시드 설명·숫자 통합 검색
