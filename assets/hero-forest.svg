@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 300" preserveAspectRatio="xMidYMax slice" shape-rendering="crispEdges">
+  <g opacity="0.68">
+    <!-- left oak -->
+    <g transform="translate(-35 48)">
+      <rect x="82" y="132" width="30" height="132" fill="#5b3c27"/>
+      <rect x="82" y="132" width="9" height="132" fill="#3f2a1c"/>
+      <rect x="103" y="132" width="9" height="132" fill="#765139"/>
+      <rect x="46" y="35" width="104" height="54" fill="#356a40"/>
+      <rect x="14" y="67" width="168" height="64" fill="#2f633b"/>
+      <rect x="46" y="111" width="104" height="58" fill="#285733"/>
+      <rect x="78" y="3" width="48" height="36" fill="#3f7549"/>
+      <rect x="14" y="67" width="34" height="31" fill="#244f2e"/>
+      <rect x="148" y="68" width="34" height="31" fill="#3c7347"/>
+      <rect x="78" y="111" width="35" height="30" fill="#32693e"/>
+    </g>
+
+    <!-- tall spruce -->
+    <g transform="translate(235 12)">
+      <rect x="79" y="151" width="26" height="126" fill="#583a26"/>
+      <rect x="79" y="151" width="8" height="126" fill="#3d281b"/>
+      <rect x="63" y="16" width="58" height="38" fill="#315d3a"/>
+      <rect x="40" y="50" width="104" height="45" fill="#2b5535"/>
+      <rect x="18" y="89" width="148" height="50" fill="#264c31"/>
+      <rect x="0" y="132" width="184" height="58" fill="#20452c"/>
+      <rect x="67" y="23" width="22" height="22" fill="#3c6c45"/>
+      <rect x="46" y="58" width="28" height="22" fill="#37663f"/>
+      <rect x="24" y="98" width="32" height="24" fill="#315e3b"/>
+      <rect x="128" y="98" width="30" height="24" fill="#1d4028"/>
+    </g>
+
+    <!-- small oak -->
+    <g transform="translate(540 100) scale(.72)">
+      <rect x="82" y="132" width="30" height="132" fill="#5b3c27"/>
+      <rect x="82" y="132" width="9" height="132" fill="#3f2a1c"/>
+      <rect x="46" y="35" width="104" height="54" fill="#3b7045"/>
+      <rect x="14" y="67" width="168" height="64" fill="#32663e"/>
+      <rect x="46" y="111" width="104" height="58" fill="#285733"/>
+      <rect x="78" y="3" width="48" height="36" fill="#477b50"/>
+    </g>
+
+    <!-- center oak -->
+    <g transform="translate(820 54) scale(.9)">
+      <rect x="82" y="132" width="30" height="132" fill="#65432b"/>
+      <rect x="82" y="132" width="9" height="132" fill="#402a1b"/>
+      <rect x="103" y="132" width="9" height="132" fill="#80583d"/>
+      <rect x="46" y="35" width="104" height="54" fill="#356a40"/>
+      <rect x="14" y="67" width="168" height="64" fill="#2f633b"/>
+      <rect x="46" y="111" width="104" height="58" fill="#285733"/>
+      <rect x="78" y="3" width="48" height="36" fill="#3f7549"/>
+      <rect x="15" y="99" width="32" height="32" fill="#244f2e"/>
+      <rect x="117" y="67" width="32" height="32" fill="#3b7145"/>
+    </g>
+
+    <!-- right spruce -->
+    <g transform="translate(1125 20) scale(.96)">
+      <rect x="79" y="151" width="26" height="126" fill="#583a26"/>
+      <rect x="79" y="151" width="8" height="126" fill="#3d281b"/>
+      <rect x="63" y="16" width="58" height="38" fill="#315d3a"/>
+      <rect x="40" y="50" width="104" height="45" fill="#2b5535"/>
+      <rect x="18" y="89" width="148" height="50" fill="#264c31"/>
+      <rect x="0" y="132" width="184" height="58" fill="#20452c"/>
+      <rect x="97" y="55" width="34" height="24" fill="#35643f"/>
+      <rect x="24" y="99" width="32" height="24" fill="#315e3b"/>
+    </g>
+
+    <!-- right oak -->
+    <g transform="translate(1450 68) scale(.86)">
+      <rect x="82" y="132" width="30" height="132" fill="#5b3c27"/>
+      <rect x="82" y="132" width="9" height="132" fill="#3f2a1c"/>
+      <rect x="103" y="132" width="9" height="132" fill="#765139"/>
+      <rect x="46" y="35" width="104" height="54" fill="#356a40"/>
+      <rect x="14" y="67" width="168" height="64" fill="#2f633b"/>
+      <rect x="46" y="111" width="104" height="58" fill="#285733"/>
+      <rect x="78" y="3" width="48" height="36" fill="#3f7549"/>
+    </g>
+
+    <!-- far-right small spruce -->
+    <g transform="translate(1700 105) scale(.68)">
+      <rect x="79" y="151" width="26" height="126" fill="#583a26"/>
+      <rect x="63" y="16" width="58" height="38" fill="#315d3a"/>
+      <rect x="40" y="50" width="104" height="45" fill="#2b5535"/>
+      <rect x="18" y="89" width="148" height="50" fill="#264c31"/>
+      <rect x="0" y="132" width="184" height="58" fill="#20452c"/>
+    </g>
+  </g>
+</svg>
