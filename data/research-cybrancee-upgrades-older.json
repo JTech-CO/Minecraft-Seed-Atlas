@@ -1,0 +1,101 @@
+[
+  {
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "seed": "7598363429859286340",
+    "sourceName": "GigaNodes — Badlands Lake",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "badlands lake",
+      "x": 0,
+      "y": null,
+      "z": 72
+    },
+    "evidenceNotes": "The numbered Badlands Lake section explicitly lists this exact seed for Java + Bedrock 26.1 and describes a river ring with steep terracotta cliffs and exposed mineshaft chests. The publisher supplies X/Z for the lake and nearby cave/portal. This is a source listing, not an independent game test. Some other sections make broad compatibility claims, so those are not used as evidence.",
+    "recommendedDescription": "가파른 테라코타 절벽이 강을 고리처럼 감싸고 가까이 지표 폐광이 드러나는 배드랜드 호수"
+  },
+  {
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "seed": "-7723232821704547830",
+    "sourceName": "GigaNodes — Diamond Ravine",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "The numbered Diamond Ravine section explicitly lists this exact seed as Java Only 26.1, with forest spawn and multiple ravines connected underground through lush cave systems. No coordinates are supplied for these caves and no independent game test was performed. The revised description avoids assigning an unsupported exact diamond elevation.",
+    "recommendedDescription": "숲 스폰 가까이 여러 지하 협곡이 서로 연결되고 무성 동굴이 이어지는 광산 지형"
+  },
+  {
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "seed": "3311362398",
+    "sourceName": "Godlike — Island with Mansion and Village at Spawn",
+    "sourceUrl": "https://godlike.host/minecraft-seeds/island-with-mansion-and-village/",
+    "sourceVersion": "1.19, 1.20, 1.21, 1.21.11, 26.1",
+    "coordinates": {
+      "label": "taiga village and mansion",
+      "x": 176,
+      "y": null,
+      "z": 16
+    },
+    "evidenceNotes": "The exact seed page explicitly lists Java 26.1 and describes an ocean island with a woodland mansion beside a village, crediting u/VintageRice. X176 Z16 is published for the paired taiga village and mansion. No independent game test was performed. An exact 100-block gap is not specified, so that detail is removed.",
+    "recommendedDescription": "바다 한가운데 섬에 삼림 대저택과 타이가 마을이 나란히 있는 구성"
+  },
+  {
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "seed": "2218715947278290213",
+    "sourceName": "Godlike — Multi Village Survival Island",
+    "sourceUrl": "https://godlike.host/minecraft-seeds/multi-village-survival-island/",
+    "sourceVersion": "1.19, 1.20, 1.21, 1.21.11, 26.1",
+    "coordinates": {
+      "label": "first plains village",
+      "x": 112,
+      "y": null,
+      "z": 16
+    },
+    "evidenceNotes": "The exact seed page explicitly lists Java 26.1 and a large survival island surrounded by ocean. Four plains villages are published at X112 Z16, X-192 Z64, X-240 Z-272 and X16 Z-144. No independent game test was performed. The previously stated nearby mushroom islands are only corroborated by an older 1.19.2 article, so the revised 26.1 description omits them.",
+    "recommendedDescription": "바다로 둘러싸인 대형 생존 섬에 평원 마을 네 곳이 분산된 정착지"
+  },
+  {
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "seed": "4251340341",
+    "sourceName": "ezseed — Island Spawn in a Frozen Ocean, Nearby Village",
+    "sourceUrl": "https://ezseed.net/popular/seed/4251340341/",
+    "sourceVersion": "26.2, 26.1.2, 26.1.1, 26.1, 1.21.11–1.21.4",
+    "coordinates": {
+      "label": "snowy slopes spawn",
+      "x": -24,
+      "y": 117,
+      "z": 56
+    },
+    "evidenceNotes": "The seed-specific catalogue metadata lists Java 26.1 among the supported releases for this exact seed, alongside Java 26.2. The seed article gives a snowy island in a frozen ocean, Snowy Slopes spawn X-24 Y117 Z56, a village at X0 Z32 and shipwreck at X0 Z16. These are publisher-provided catalogue/map results, not our own version-specific game test. The old claim that the shipwreck is embedded inside the village is not supported and is removed.",
+    "recommendedDescription": "얼어붙은 바다의 눈 섬 스폰 가까이 마을과 난파선이 있는 빙설 해안",
+    "evidenceNotesKo": "해당 시드의 호환 목록에 Java 26.1이 있지만 현재 지도 표시는 26.2입니다. 게시자의 바이옴·구조물 정보로 설명을 좁혔으며 이 사이트에서 26.1 월드를 독립적으로 재현하지 않았습니다."
+  },
+  {
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "seed": "4405134068028",
+    "sourceName": "ezseed — Mushroom Fields and Dark Forests by a Cold Ocean",
+    "sourceUrl": "https://ezseed.net/popular/seed/4405134068028/",
+    "sourceVersion": "26.2, 26.1.2, 26.1.1, 26.1, 1.21.11–1.21.4",
+    "coordinates": {
+      "label": "dark forest spawn",
+      "x": 200,
+      "y": 66,
+      "z": 120
+    },
+    "evidenceNotes": "The seed-specific catalogue metadata lists Java 26.1 among the supported releases for this exact seed, alongside Java 26.2. The article describes dark forest spawn, mushroom fields about 530 blocks away, old-growth pine taiga about 64 blocks away and jungle about 675 blocks away. These are publisher-provided catalogue/map results, not our own version-specific game test. No claim of every biome or the old ice-spikes/mangrove combination is retained; the description is narrowed to the supplied biome data.",
+    "recommendedDescription": "어두운 숲 스폰에서 오래된 소나무 타이가·버섯 들판·정글을 가까이 탐사하는 지형",
+    "evidenceNotesKo": "해당 시드의 호환 목록에 Java 26.1이 있지만 현재 지도 표시는 26.2입니다. 게시자의 바이옴·구조물 정보로 설명을 좁혔으며 이 사이트에서 26.1 월드를 독립적으로 재현하지 않았습니다."
+  }
+]

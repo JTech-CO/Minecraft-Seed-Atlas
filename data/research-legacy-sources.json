@@ -1,0 +1,3657 @@
+[
+  {
+    "seed": "3010093401612243309",
+    "sourceName": "CraftMC — Surface Sulfur Ring Swamp",
+    "sourceUrl": "https://www.craftmc.net/minecraft-seeds/26.2/surface-sulfur-ring-swamp-java-26-2",
+    "sourceVersion": "26.2",
+    "coordinates": null,
+    "evidenceNotes": "Exact seed listed by the publisher on an explicitly Java 26.2 page; publisher says tested. No independent in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "934598",
+    "sourceName": "CraftMC — Official Surface Sulfur Biome",
+    "sourceUrl": "https://www.craftmc.net/minecraft-seeds/26.2/official-surface-sulfur-biome-java-26-2",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "spawn",
+      "x": 0,
+      "y": 70,
+      "z": 0
+    },
+    "evidenceNotes": "Exact seed listed by the publisher on an explicitly Java 26.2 page; publisher says tested. No independent in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5265718",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Mineshaft",
+      "x": -20,
+      "y": 12,
+      "z": 20
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "888880004420377",
+    "sourceName": "CraftMC — Surface Stronghold",
+    "sourceUrl": "https://www.craftmc.net/minecraft-seeds/26.2/surface-stronghold-exposed-above-ground-java-seed",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Stronghold",
+      "x": 1110,
+      "y": 57,
+      "z": -1622
+    },
+    "evidenceNotes": "Exact seed listed by the publisher on an explicitly Java 26.2 page; publisher says tested. No independent in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5020669403913201634",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Witch Hut",
+      "x": 15,
+      "y": 131,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-6550767132987094258",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 85,
+      "y": 63,
+      "z": -250
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-3169243926495115526",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Mineshaft",
+      "x": -985,
+      "y": 10,
+      "z": 290
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5241345541329580311",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Jungle Temple",
+      "x": 1300,
+      "y": 70,
+      "z": 300
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8080800009656578079",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Ruined Portal",
+      "x": 50,
+      "y": 108,
+      "z": 35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6316880426",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Cherry Grove",
+      "x": -50,
+      "y": 93,
+      "z": -50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "164094852",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Dripstone Cave",
+      "x": 0,
+      "y": 130,
+      "z": 110
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2677671446513866247",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Woodland Mansion",
+      "x": -10,
+      "y": 244,
+      "z": 65
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-5657647031884136284",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 250,
+      "y": 73,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "808000009593427812",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Mushroom Island",
+      "x": 150,
+      "y": 79,
+      "z": 800
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-7802767792245861369",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Woodland Mansion",
+      "x": -5,
+      "y": 64,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "826365176",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Ruined Portal",
+      "x": 100,
+      "y": 71,
+      "z": -445
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "129768862303",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": -10,
+      "y": 34,
+      "z": 30
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-3538984882182982215",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 25,
+      "y": 130,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "123454532311368",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 71,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "178707548189246514",
+    "sourceName": "Original atlas source collection",
+    "sourceUrl": null,
+    "sourceVersion": null,
+    "coordinates": null,
+    "evidenceNotes": "The original atlas contains this row, but an accessible exact numeric match with matching Java edition/version/features could not be re-confirmed in this research pass. Preserve as legacy only.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "804203183",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "225237899",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 50,
+      "y": 69,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "642514965410",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 10,
+      "y": 69,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-8712494954124659724",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 201,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "577910307",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 71,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "123553276234148",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 73,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "176549799987",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 10,
+      "y": 77,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "61222108333",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 50,
+      "y": 134,
+      "z": 75
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "855078285",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 15,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2451969784",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": -5,
+      "y": -33,
+      "z": -5
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-6476176263942246146",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 25,
+      "y": 75,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "59457254975",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 120,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "99785869649",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 64,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2402107451248714858",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Lush Cave",
+      "x": -65,
+      "y": 68,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8199929021534853323",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Shipwreck",
+      "x": 0,
+      "y": 64,
+      "z": 20
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "819893051",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Geyser",
+      "x": 0,
+      "y": 64,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2634042832057963959",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Jungle Temple",
+      "x": 35,
+      "y": 66,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5561714856",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 69,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "7413071286",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Floating Island",
+      "x": 65,
+      "y": 125,
+      "z": -50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-367606319583958422",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-112308515707532178",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Cliff Island",
+      "x": 0,
+      "y": 142,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "42203442493",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 109,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1087081",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Spawn",
+      "x": 0,
+      "y": 69,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "101396560",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 74,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "16515906812",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 50,
+      "y": 80,
+      "z": 150
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2265365973",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village + Temple",
+      "x": 0,
+      "y": 70,
+      "z": -5
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "29626568041",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 111,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2755077072077244402",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 50,
+      "y": 64,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "409918915324",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3565771207",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Lush Cave",
+      "x": 0,
+      "y": -20,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-818810680825819701",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": -150,
+      "y": 121,
+      "z": 200
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "64685588013",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 78,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4656604850991253242",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": -1100,
+      "y": 63,
+      "z": -500
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "29315822",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Sulfur Cave",
+      "x": 10,
+      "y": 79,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-5736741500324329844",
+    "sourceName": "akirby80 — Top 15 Best 26.2 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-2-seeds-chaos-cubed-update/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 25,
+      "y": 112,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3806707291501128365",
+    "sourceName": "CraftMC — Cherry Blossom Structure Rush",
+    "sourceUrl": "https://www.craftmc.net/blog/best-minecraft-26-2-seeds-java-bedrock",
+    "sourceVersion": "26.2",
+    "coordinates": null,
+    "evidenceNotes": "Exact seed appears in the article's Java Edition 26.2 section with the listed terrain and structures; no exact XYZ are published in the article. No independent in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "11876982227",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 50,
+      "y": 73,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1343442316",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 5,
+      "y": 61,
+      "z": 5
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "10460844007",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 50,
+      "y": 66,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2069860264",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 63,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2933701339",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 5,
+      "y": 64,
+      "z": 5
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "316206680",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village + Temple",
+      "x": 50,
+      "y": 71,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "279151002",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 65,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5780478663",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 99,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3988218963704614466",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 68,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2686960127663658295",
+    "sourceName": "akirby80 — Top 25 Village Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-village-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 25,
+      "y": 63,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6372874947707552041",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 67,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4206900000262032420",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Shipwreck",
+      "x": -95,
+      "y": 63,
+      "z": 35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "9032813477621696566",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5684950104625593615",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 94,
+      "z": 150
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "808112688247422",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 64,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8415538853695196772",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Islands",
+      "x": 25,
+      "y": 64,
+      "z": 35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-264422166841145606",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": -1000,
+      "y": 72,
+      "z": -200
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-4635048441493682649",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 58,
+      "y": 63,
+      "z": 5
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "7958986441470546919",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 64,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-8260164666548336482",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 69,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2128232298909230280",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 66,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6907958878433244199",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Igloo",
+      "x": 10,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "808113045975942",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Shipwreck",
+      "x": -100,
+      "y": 63,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1791306751793518062",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 125,
+      "y": 78,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2810280948",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Mushroom Island",
+      "x": 1550,
+      "y": 81,
+      "z": -2300
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "14754286553",
+    "sourceName": "akirby80 — Top 25 Survival Island Seeds 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-25-survival-island-seeds-for-minecraft-26-2/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 66,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "808113137118054",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3547946542",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 103,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6639713247273676610",
+    "sourceName": "akirby80 — Top 15 Seeds You Need to Try 26.2",
+    "sourceUrl": "https://akirby80.net/blog/top-15-minecraft-26-2-seeds-you-need-to-try/",
+    "sourceVersion": "26.2",
+    "coordinates": {
+      "label": "Stronghold",
+      "x": -1205,
+      "y": -59,
+      "z": -675
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "26.2",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "486362209",
+    "sourceName": "GamesRadar — Best Minecraft Seeds",
+    "sourceUrl": "https://www.gamesradar.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village 1",
+      "x": 0,
+      "y": null,
+      "z": 0
+    },
+    "evidenceNotes": "Article title states 26.1 and distinguishes Java and Bedrock findings; the exact seed and matching core features are listed. Coordinates are publisher-reported points of interest. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2295595817529477063",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "6391130274229160289",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "8110137054462309706",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "9009245503860775875",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "69420018030897796",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "-3420545464665791887",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "-8065848147699287859",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "7196303038988998513",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "8486672581758651406",
+    "sourceName": "8BitToast — 15 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://8bittoast.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Mountain entrance",
+      "x": 32,
+      "y": null,
+      "z": -64
+    },
+    "evidenceNotes": "Article explicitly covers tested/curated 26.1 seeds, assigns this seed Java & Bedrock, and describes the same core terrain feature as the legacy atlas. Coordinates are publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4167799982467607063",
+    "sourceName": "8BitToast — 15 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://8bittoast.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Cherry Grove center",
+      "x": 0,
+      "y": null,
+      "z": 0
+    },
+    "evidenceNotes": "Article explicitly covers tested/curated 26.1 seeds, assigns this seed Java & Bedrock, and describes the same core terrain feature as the legacy atlas. Coordinates are publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-7286370756041736131",
+    "sourceName": "8BitToast — 15 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://8bittoast.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Woodland Mansion",
+      "x": -144,
+      "y": null,
+      "z": 112
+    },
+    "evidenceNotes": "Article explicitly covers tested/curated 26.1 seeds, assigns this seed Java & Bedrock, and describes the same core terrain feature as the legacy atlas. Coordinates are publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6230119895383733384",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "-8108731129080552900",
+    "sourceName": "8BitToast — 15 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://8bittoast.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "First Trial Chamber",
+      "x": 208,
+      "y": null,
+      "z": -80
+    },
+    "evidenceNotes": "Article explicitly covers tested/curated 26.1 seeds, assigns this seed Java & Bedrock, and describes the same core terrain feature as the legacy atlas. Coordinates are publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-8880302588844065321",
+    "sourceName": "8BitToast — 15 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://8bittoast.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village center",
+      "x": 80,
+      "y": null,
+      "z": 16
+    },
+    "evidenceNotes": "Article explicitly covers tested/curated 26.1 seeds, assigns this seed Java & Bedrock, and describes the same core terrain feature as the legacy atlas. Coordinates are publisher-reported. No independent in-game test performed. Another older TechRadar list publishes the positive variant of this number for an obsidian farm, so the sign has conflicting publisher evidence; the negative value here is preserved and should not be called independently verified.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "8BitToast는 Java 26.1 시드로 음수 값을 소개하지만 TechRadar에는 같은 흑요석 농장 특징이 양수 값으로 올라와 부호가 서로 다릅니다. 음수 원문 값을 유지했으며 독립 게임 검증을 하지 않았습니다. 좌표도 게시자 제공값입니다."
+  },
+  {
+    "seed": "302304127329527063",
+    "sourceName": "GigaNodes — Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Taiga Village",
+      "x": 32,
+      "y": 80,
+      "z": 16
+    },
+    "evidenceNotes": "The source's 26.1 article lists the exact seed, explicitly assigns Java support, and describes matching core features. Coordinates are publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-4327904694146500881",
+    "sourceName": "GigaNodes — Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Desert Village",
+      "x": -201,
+      "y": 100,
+      "z": 318
+    },
+    "evidenceNotes": "The source's 26.1 article lists the exact seed, explicitly assigns Java support, and describes matching core features. Coordinates are publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6969000000015129972",
+    "sourceName": "GigaNodes — Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village 1",
+      "x": -4,
+      "y": 80,
+      "z": -136
+    },
+    "evidenceNotes": "The source's 26.1 article lists the exact seed, explicitly assigns Java support, and describes matching core features. Coordinates are publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2682261295",
+    "sourceName": "GigaNodes — Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "The source's 26.1 quick-reference table lists the exact seed, Java support, and the matching main feature. This is a table-level publisher claim with no numeric waypoint. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "7598363429859286340",
+    "sourceName": "GigaNodes — Badlands Lake",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "badlands lake",
+      "x": 0,
+      "y": null,
+      "z": 72
+    },
+    "evidenceNotes": "The numbered Badlands Lake section explicitly lists this exact seed for Java + Bedrock 26.1 and describes a river ring with steep terracotta cliffs and exposed mineshaft chests. The publisher supplies X/Z for the lake and nearby cave/portal. This is a source listing, not an independent game test. Some other sections make broad compatibility claims, so those are not used as evidence.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "recommendedDescription": "가파른 테라코타 절벽이 강을 고리처럼 감싸고 가까이 지표 폐광이 드러나는 배드랜드 호수"
+  },
+  {
+    "seed": "-7723232821704547830",
+    "sourceName": "GigaNodes — Diamond Ravine",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "The numbered Diamond Ravine section explicitly lists this exact seed as Java Only 26.1, with forest spawn and multiple ravines connected underground through lush cave systems. No coordinates are supplied for these caves and no independent game test was performed. The revised description avoids assigning an unsupported exact diamond elevation.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "recommendedDescription": "숲 스폰 가까이 여러 지하 협곡이 서로 연결되고 무성 동굴이 이어지는 광산 지형"
+  },
+  {
+    "seed": "4251340341",
+    "sourceName": "ezseed — Island Spawn in a Frozen Ocean, Nearby Village",
+    "sourceUrl": "https://ezseed.net/popular/seed/4251340341/",
+    "sourceVersion": "26.2, 26.1.2, 26.1.1, 26.1, 1.21.11–1.21.4",
+    "coordinates": {
+      "label": "snowy slopes spawn",
+      "x": -24,
+      "y": 117,
+      "z": 56
+    },
+    "evidenceNotes": "The seed-specific catalogue metadata lists Java 26.1 among the supported releases for this exact seed, alongside Java 26.2. The seed article gives a snowy island in a frozen ocean, Snowy Slopes spawn X-24 Y117 Z56, a village at X0 Z32 and shipwreck at X0 Z16. These are publisher-provided catalogue/map results, not our own version-specific game test. The old claim that the shipwreck is embedded inside the village is not supported and is removed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "recommendedDescription": "얼어붙은 바다의 눈 섬 스폰 가까이 마을과 난파선이 있는 빙설 해안",
+    "evidenceNotesKo": "해당 시드의 호환 목록에 Java 26.1이 있지만 현재 지도 표시는 26.2입니다. 게시자의 바이옴·구조물 정보로 설명을 좁혔으며 이 사이트에서 26.1 월드를 독립적으로 재현하지 않았습니다."
+  },
+  {
+    "seed": "-608830374621340378",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "-8013592586951995800",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village",
+      "x": 50,
+      "y": 69,
+      "z": 50
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1245050907",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Ruined Portal",
+      "x": 80,
+      "y": 88,
+      "z": 65
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-5239938166445175127",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 119,
+      "z": 0
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5028248135",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Windswept Savanna",
+      "x": 100,
+      "y": 110,
+      "z": 900
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "7557040174727706949",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Island",
+      "x": 0,
+      "y": 127,
+      "z": 0
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4023209125",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Mangrove Swamp",
+      "x": 2125,
+      "y": 68,
+      "z": 615
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2412334026",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village + Shipwreck",
+      "x": 10,
+      "y": 64,
+      "z": 10
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5293699887003289009",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Pale Garden",
+      "x": 0,
+      "y": 133,
+      "z": 115
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5634847558771179357",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village",
+      "x": 300,
+      "y": 119,
+      "z": -200
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2218715947278290213",
+    "sourceName": "Godlike — Multi Village Survival Island",
+    "sourceUrl": "https://godlike.host/minecraft-seeds/multi-village-survival-island/",
+    "sourceVersion": "1.19, 1.20, 1.21, 1.21.11, 26.1",
+    "coordinates": {
+      "label": "first plains village",
+      "x": 112,
+      "y": null,
+      "z": 16
+    },
+    "evidenceNotes": "The exact seed page explicitly lists Java 26.1 and a large survival island surrounded by ocean. Four plains villages are published at X112 Z16, X-192 Z64, X-240 Z-272 and X16 Z-144. No independent game test was performed. The previously stated nearby mushroom islands are only corroborated by an older 1.19.2 article, so the revised 26.1 description omits them.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "recommendedDescription": "바다로 둘러싸인 대형 생존 섬에 평원 마을 네 곳이 분산된 정착지"
+  },
+  {
+    "seed": "8015641954194115677",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "4405134068028",
+    "sourceName": "ezseed — Mushroom Fields and Dark Forests by a Cold Ocean",
+    "sourceUrl": "https://ezseed.net/popular/seed/4405134068028/",
+    "sourceVersion": "26.2, 26.1.2, 26.1.1, 26.1, 1.21.11–1.21.4",
+    "coordinates": {
+      "label": "dark forest spawn",
+      "x": 200,
+      "y": 66,
+      "z": 120
+    },
+    "evidenceNotes": "The seed-specific catalogue metadata lists Java 26.1 among the supported releases for this exact seed, alongside Java 26.2. The article describes dark forest spawn, mushroom fields about 530 blocks away, old-growth pine taiga about 64 blocks away and jungle about 675 blocks away. These are publisher-provided catalogue/map results, not our own version-specific game test. No claim of every biome or the old ice-spikes/mangrove combination is retained; the description is narrowed to the supplied biome data.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "recommendedDescription": "어두운 숲 스폰에서 오래된 소나무 타이가·버섯 들판·정글을 가까이 탐사하는 지형",
+    "evidenceNotesKo": "해당 시드의 호환 목록에 Java 26.1이 있지만 현재 지도 표시는 26.2입니다. 게시자의 바이옴·구조물 정보로 설명을 좁혔으며 이 사이트에서 26.1 월드를 독립적으로 재현하지 않았습니다."
+  },
+  {
+    "seed": "888880641529027638",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "888880641529027638` Mushroom Island",
+      "x": -7643,
+      "y": null,
+      "z": -22
+    },
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "62384459426931",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "3311362398",
+    "sourceName": "Godlike — Island with Mansion and Village at Spawn",
+    "sourceUrl": "https://godlike.host/minecraft-seeds/island-with-mansion-and-village/",
+    "sourceVersion": "1.19, 1.20, 1.21, 1.21.11, 26.1",
+    "coordinates": {
+      "label": "taiga village and mansion",
+      "x": 176,
+      "y": null,
+      "z": 16
+    },
+    "evidenceNotes": "The exact seed page explicitly lists Java 26.1 and describes an ocean island with a woodland mansion beside a village, crediting u/VintageRice. X176 Z16 is published for the paired taiga village and mansion. No independent game test was performed. An exact 100-block gap is not specified, so that detail is removed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "checkedAt": "2026-10-04",
+    "recommendedDescription": "바다 한가운데 섬에 삼림 대저택과 타이가 마을이 나란히 있는 구성"
+  },
+  {
+    "seed": "-862348623794739",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "8608349213046087119",
+    "sourceName": "MC-Mod — Cherry Grove Spawn in a Cold, Mountainous World",
+    "sourceUrl": "https://www.mc-mod.net/seeds/cherry-grove-spawn-in-a-cold-mountainous-world-minecraft-seed/",
+    "sourceVersion": "26.1, 26.1.1, 26.1.2 (among publisher listed versions)",
+    "coordinates": {
+      "label": "Publisher spawn",
+      "x": 8,
+      "y": 133,
+      "z": 8
+    },
+    "evidenceNotes": "Publisher lists the exact seed, Java Edition, and 26.1 / 26.1.1 / 26.1.2 among its supported versions. It describes a cherry-grove spawn surrounded by ice spikes and snowy landscapes. Coordinates are credited to ezseed, so this is publisher/generator evidence rather than an independent in-game test.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2059666523504992",
+    "sourceName": "GamesRadar — Best Minecraft Seeds",
+    "sourceUrl": "https://www.gamesradar.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Iron gear weaponsmith chest",
+      "x": -140,
+      "y": 70,
+      "z": 67
+    },
+    "evidenceNotes": "Article title states 26.1 and distinguishes Java and Bedrock findings; the exact seed and matching core features are listed. Coordinates are publisher-reported points of interest. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-128114970508797305",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "-7417157268905316998",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "-4517475607999363428",
+    "sourceName": "Ronimo Games — Best Minecraft Seeds 2026",
+    "sourceUrl": "https://www.ronimo-games.com/best-minecraft-seeds-2026-updated-261/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 article explicitly says the list was checked on Java and lists the exact seed with the matching core feature. This is curated publisher evidence, and repeats familiar community entries; it is not an independent discovery or our own in-game test. No coordinates are published here.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed",
+    "evidenceNotesKo": "게시자는 이 목록의 Java 26.1 확인을 주장하며 같은 시드·핵심 특징을 소개합니다. 기존 커뮤니티 사례를 재정리한 출처이고 좌표를 제공하지 않습니다. 이 사이트에서 독립적으로 월드를 재현한 결과는 아닙니다."
+  },
+  {
+    "seed": "105849523",
+    "sourceName": "GigaNodes — Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "The source's 26.1 quick-reference table lists the exact seed, Java support, and the matching main feature. This is a table-level publisher claim with no numeric waypoint. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "66292822",
+    "sourceName": "GigaNodes — Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://giganodes.host/blog/best-minecraft-seeds-26-1",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "The source's 26.1 quick-reference table lists the exact seed, Java support, and the matching main feature. This is a table-level publisher claim with no numeric waypoint. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "111111111111111111",
+    "sourceName": "GamesRadar — Best Minecraft Seeds",
+    "sourceUrl": "https://www.gamesradar.com/best-minecraft-seeds/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Ancient City 1",
+      "x": -1752,
+      "y": -51,
+      "z": -760
+    },
+    "evidenceNotes": "Article title states 26.1 and distinguishes Java and Bedrock findings; the exact seed and matching core features are listed. Coordinates are publisher-reported points of interest. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "345226940",
+    "sourceName": "akirby80 — Top 10 Best Minecraft 26.1 Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-10-best-minecraft-26-1-seeds-tiny-takeover-update/",
+    "sourceVersion": "26.1",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 90,
+      "z": 150
+    },
+    "evidenceNotes": "Exact seed, Java Edition 26.1 and the corresponding terrain title are listed by the original seed-video publisher. Coordinates are the first published point of interest and may be far from spawn. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4361528937055201680",
+    "sourceName": "Cybrancee — 50 Best Minecraft Seeds 26.1",
+    "sourceUrl": "https://cybrancee.com/blog/50-best-minecraft-seeds-for-version-26-1/",
+    "sourceVersion": "26.1",
+    "coordinates": null,
+    "evidenceNotes": "Publisher's 26.1 collection lists the exact seed. Edition is not explicitly stated in the source; the legacy Java label has not been independently confirmed. Coordinates, where supplied, are publisher-reported points of interest. No in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "3335695458141199744",
+    "sourceName": "Godlike — Buried Mansion Outpost",
+    "sourceUrl": "https://godlike.host/minecraft-seeds/buried-mansion-outpost/",
+    "sourceVersion": "1.19, 1.20, 1.21, 1.21.11, 26.1",
+    "coordinates": {
+      "label": "Buried Mansion Outpost",
+      "x": 58112,
+      "y": null,
+      "z": 109072
+    },
+    "evidenceNotes": "Exact seed, Java 26.1 support and the matching buried-mansion/roof-outpost feature are publisher-reported. The source writes Y as ~ rather than a height, so Y stays null. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "95920844204830198",
+    "sourceName": "WiseHosting — Four Villages Island Spawn",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/four-villages-island-spawn",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": -5,
+      "y": 81,
+      "z": 9
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-1909472536",
+    "sourceName": "WiseHosting — Flat Plains Island Surrounded by Cherry Groves",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/flat-plains-island-surrounded-by-cherry-groves",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": -8,
+      "y": 127,
+      "z": -4
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "879583942",
+    "sourceName": "WiseHosting — Cherry Blossom Circle",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/cherry-grove-circle",
+    "sourceVersion": "1.21 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": 17,
+      "y": 77,
+      "z": -28
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "712262452098460",
+    "sourceName": "WiseHosting — Village on a Deep Lake",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/village-on-a-deep-lake-surrounded-by-cherry-grove-trees",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": -1035,
+      "y": 63,
+      "z": 929
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3180937131711060872",
+    "sourceName": "WiseHosting — The Highest Mountain",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/the-highest-mountain-in-minecraft",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": 605,
+      "y": 256,
+      "z": 353
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "7414878756768619920",
+    "sourceName": "WiseHosting — Four Villages at a Small Lake",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/four-villages-at-the-corners-of-a-small-lake",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": 8,
+      "y": 103,
+      "z": 122
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2350879005487267529",
+    "sourceName": "WiseHosting — Snowy Mountain Cherry Grove Village",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/snowy-mountain-cherry-grove-village",
+    "sourceVersion": "1.21.11 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": 0,
+      "y": 119,
+      "z": -1
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1691256543523180978",
+    "sourceName": "WiseHosting — Circular Cherry Grove Crater",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/circular-cherry-grove-crater",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": 12086,
+      "y": 128,
+      "z": 1487
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "41243203149",
+    "sourceName": "WiseHosting — Cherry Grove Around Village Pit",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/cherry-grove-around-village-pit",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": -34,
+      "y": 91,
+      "z": 28
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6671238423019257953",
+    "sourceName": "WiseHosting — Scenic Multi-biome Mountain Range",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/a-scenic-multi-biome-mountain-range",
+    "sourceVersion": "1.20 - 26.1.2",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": 0,
+      "y": 247,
+      "z": -3
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1180506052330500839",
+    "sourceName": "Original atlas source collection",
+    "sourceUrl": null,
+    "sourceVersion": null,
+    "coordinates": null,
+    "evidenceNotes": "The original atlas contains this row, but an accessible exact numeric match with matching Java edition/version/features could not be re-confirmed in this research pass. Preserve as legacy only.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "1902477681404940202",
+    "sourceName": "Godlike — Insanely Tall Mansion",
+    "sourceUrl": "https://godlike.host/minecraft-seeds/insanely-tall-mansion/",
+    "sourceVersion": "1.19, 1.20, 1.21, 1.21.11, 26.1",
+    "coordinates": {
+      "label": "Mansion",
+      "x": 0,
+      "y": null,
+      "z": 0
+    },
+    "evidenceNotes": "Exact seed and 26.1 compatibility are publisher-reported for Java Edition. The title reports Y278, but the waypoint only supplies X/Z. No independent in-game test performed.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8144877040668690370",
+    "sourceName": "Original atlas source collection",
+    "sourceUrl": null,
+    "sourceVersion": null,
+    "coordinates": null,
+    "evidenceNotes": "The original atlas contains this row, but an accessible exact numeric match with matching Java edition/version/features could not be re-confirmed in this research pass. Preserve as legacy only.",
+    "recommendedVersion": "26.1",
+    "evidenceStatus": "legacy-collection"
+  },
+  {
+    "seed": "8232298652205430997",
+    "sourceName": "WiseHosting — Skyscraper Woodland Mansion",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/skyscraper-woodland-mansion",
+    "sourceVersion": "1.19 - 1.21.11",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": 3,
+      "y": 260,
+      "z": -6
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed. The source's published compatibility range ends at 1.21.11 and does not support the legacy atlas's 26.1 assignment.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "416665323",
+    "sourceName": "WiseHosting — Infinity Loop Dual Cherry Grove Craters",
+    "sourceUrl": "https://wisehosting.com/minecraft-seeds/infinity-loop-dual-cherry-grove-craters",
+    "sourceVersion": "1.20 - 1.21.11",
+    "coordinates": {
+      "label": "Publisher location",
+      "x": -55,
+      "y": 125,
+      "z": 69
+    },
+    "evidenceNotes": "Exact seed and location listed on publisher's Java page; compatible version range is publisher-reported. No independent in-game test performed. The source's published compatibility range ends at 1.21.11 and does not support the legacy atlas's 26.1 assignment.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3884408809",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 10,
+      "y": 65,
+      "z": -50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-7951949567052742643",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 325,
+      "y": 126,
+      "z": -100
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1137140314",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 10,
+      "y": 64,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "15632432739",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Woodland Mansion",
+      "x": 185,
+      "y": 67,
+      "z": 145
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6202793301",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 25,
+      "y": 63,
+      "z": -20
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2883711136400722202",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -50,
+      "y": 151,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8907256489",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Cherry Grove + Village",
+      "x": 0,
+      "y": 94,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "16056432022",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 300,
+      "y": 68,
+      "z": -125
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "17862807",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 82,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3832120325",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 69,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2015360833248823105",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 63,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "293296925732519909",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -50,
+      "y": 149,
+      "z": -50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1944420280",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 190,
+      "y": 65,
+      "z": -165
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "867084117",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 40,
+      "y": 67,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "10436478582",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -345,
+      "y": 66,
+      "z": 425
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-8767945524470268999",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 70,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8242150268041431848",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 15,
+      "y": 145,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2726085149442701246",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Spawn Island",
+      "x": 50,
+      "y": 71,
+      "z": -475
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2201080156",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 25,
+      "y": 64,
+      "z": -15
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3852527794",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 63,
+      "z": 15
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-7434317084881831641",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 300,
+      "y": 120,
+      "z": -300
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "464435476",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Shipwreck + Island",
+      "x": -475,
+      "y": 65,
+      "z": 75
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-7684266864199223481",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 71,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "12908561220",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -50,
+      "y": 78,
+      "z": 550
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "12566285794",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": -375,
+      "y": 62,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2028954504",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 80,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4827231418",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 375,
+      "y": 70,
+      "z": -285
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2139191020",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 130,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3394805579",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 64,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "7019985919163768154",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 15,
+      "y": 132,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1327015646",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Cherry Grove",
+      "x": 50,
+      "y": 84,
+      "z": 50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5061415166",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -400,
+      "y": 68,
+      "z": 75
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "179598649",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 25,
+      "y": 124,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4948611565550046693",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -185,
+      "y": 113,
+      "z": -250
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3216977508826091457",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -25,
+      "y": 143,
+      "z": -35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2656134525",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 50,
+      "y": 138,
+      "z": 35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2844304639661178520",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Island + Ruins",
+      "x": 15,
+      "y": 114,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "231824342",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Igloo",
+      "x": 130,
+      "y": 77,
+      "z": 75
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2510523917",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 20,
+      "y": 143,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3181695706",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 115,
+      "y": 148,
+      "z": 115
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5636611663",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 73,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "6094611801",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 35,
+      "y": 68,
+      "z": -15
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-4495436853044659087",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village Island",
+      "x": 25,
+      "y": 73,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1392678314",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 25,
+      "y": 70,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-3692388744488748166",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 71,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "68147685812",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 200,
+      "y": 63,
+      "z": -245
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1180498342",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 72,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "312823795977",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -50,
+      "y": 70,
+      "z": 150
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "4539346949412856945",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 71,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "147488943",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Pale Garden",
+      "x": -40,
+      "y": 86,
+      "z": -25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed. Pale Garden is not present in base 1.21.0; precise snapshot/patch version is not specified by this collection.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "66443115549",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -550,
+      "y": 70,
+      "z": 125
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "307241543",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Jungle Temple",
+      "x": -200,
+      "y": 71,
+      "z": 65
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "62582443",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Shipwreck",
+      "x": 150,
+      "y": 65,
+      "z": -180
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-3177571012084332132",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 70,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "865540935",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 25,
+      "y": 69,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "552572057",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Island",
+      "x": 50,
+      "y": 63,
+      "z": 75
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "66528131",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Desert Temple",
+      "x": -455,
+      "y": 69,
+      "z": -485
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "867268617",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 72,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-7931683368727781339",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village + Temple",
+      "x": 25,
+      "y": 71,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-6170494439450032585",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 25,
+      "y": 73,
+      "z": 35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "394811685",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 15,
+      "y": 63,
+      "z": 15
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "17857383",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Mountains",
+      "x": 100,
+      "y": 95,
+      "z": 500
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "333503426",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 5,
+      "y": 71,
+      "z": -5
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "17385677112",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 105,
+      "y": 63,
+      "z": 150
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "111474147190",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 275,
+      "y": 67,
+      "z": 300
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "300285457",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Shipwreck",
+      "x": -300,
+      "y": 64,
+      "z": -275
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "958935572",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -625,
+      "y": 65,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-4647714815446318351",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 50,
+      "y": 71,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2593213857",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Island",
+      "x": -150,
+      "y": 136,
+      "z": -150
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "5117215076600316658",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 15,
+      "y": 71,
+      "z": 15
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "245716517",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": -325,
+      "y": 79,
+      "z": -130
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8805100221462748353",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Island",
+      "x": 65,
+      "y": 152,
+      "z": -35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "111114215629",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 143,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2131794424",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -5,
+      "y": 63,
+      "z": -10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "715722100",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 25,
+      "y": 65,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "13216650934",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -275,
+      "y": 72,
+      "z": -300
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "14958165446",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 415,
+      "y": 72,
+      "z": -100
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3035706114",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Woodland Mansion",
+      "x": 205,
+      "y": 86,
+      "z": 315
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "8498890289",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -200,
+      "y": 66,
+      "z": -325
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-5060075656250078142",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village + Portal",
+      "x": 50,
+      "y": 65,
+      "z": -10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "204197842",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 25,
+      "y": 64,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "15966589306",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -300,
+      "y": 88,
+      "z": -600
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "159665862",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Pillager Outpost",
+      "x": -375,
+      "y": 63,
+      "z": -400
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-2126543449048424815",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 15,
+      "y": 63,
+      "z": 15
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-7577869322942050870",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 0,
+      "y": 64,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1423975491",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 25,
+      "y": 65,
+      "z": 5
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "14847868339",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 275,
+      "y": 66,
+      "z": 20
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2082080180",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 67,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "2393068505",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 500,
+      "y": 67,
+      "z": -150
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "337755041265",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -100,
+      "y": 64,
+      "z": -175
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "15479132478",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -150,
+      "y": 64,
+      "z": -85
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "16965060050",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -300,
+      "y": 71,
+      "z": 25
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "1170654428140303886",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Village",
+      "x": 10,
+      "y": 63,
+      "z": 10
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "-1581607893015897523",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Woodland Mansion",
+      "x": 15,
+      "y": 84,
+      "z": 35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3254568905",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 0,
+      "y": 67,
+      "z": 0
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3811816932",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": 50,
+      "y": 63,
+      "z": -50
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "19193658478",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -55,
+      "y": 64,
+      "z": -55
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "97247464",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Shipwreck",
+      "x": 125,
+      "y": 64,
+      "z": -470
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "209698858230574020",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Woodland Mansion",
+      "x": 15,
+      "y": 144,
+      "z": 35
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3584993490",
+    "sourceName": "akirby80 — Top 100 Survival Island Seeds",
+    "sourceUrl": "https://akirby80.net/blog/top-100-minecraft-survival-island-seeds/",
+    "sourceVersion": "1.21 (publisher collection)",
+    "coordinates": {
+      "label": "Survival Island",
+      "x": -55,
+      "y": 63,
+      "z": -85
+    },
+    "evidenceNotes": "Publisher's Java Edition collection lists the exact seed; coordinates are the first documented point of interest, not necessarily spawn. No in-game test performed.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "source-listed"
+  },
+  {
+    "seed": "3110000067282134548",
+    "sourceName": "Original atlas source collection",
+    "sourceUrl": null,
+    "sourceVersion": null,
+    "coordinates": null,
+    "evidenceNotes": "The original atlas cites a DCInside page, but fetched text contains no seed number, and its mcseedmap URL resolves to generic map content with a different sample seed. Exact numeric seed and features could not be re-confirmed; preserve as legacy only.",
+    "recommendedVersion": "1.21",
+    "evidenceStatus": "legacy-collection"
+  }
+]
