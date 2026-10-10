@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" style="image-rendering:pixelated" shape-rendering="crispEdges">
+<title>Overworld soil and stone</title>
+<defs>
+<pattern id="dirt" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#593d29" d="M40 0h4v4h-4zM8 4h4v4h-4zM28 4h4v4h-4zM56 4h8v4h-8zM12 8h4v4h-4zM48 8h8v4h-8zM20 12h4v4h-4zM16 16h4v4h-4zM36 16h4v4h-4zM56 16h4v4h-4zM4 20h4v4h-4zM24 20h12v4h-12zM44 20h4v4h-4zM36 28h4v4h-4zM28 32h4v4h-4zM56 32h4v4h-4zM8 36h4v4h-4zM20 36h8v4h-8zM32 40h4v4h-4zM44 40h4v4h-4zM48 44h4v4h-4zM60 44h4v4h-4zM4 48h4v4h-4zM36 52h4v4h-4zM44 52h4v4h-4zM8 56h4v4h-4zM20 56h4v4h-4zM28 56h4v4h-4zM60 60h4v4h-4z"/>
+<path fill="#6c6c6c" d="M4 12h4v4h-4zM44 16h4v4h-4zM32 44h4v4h-4z"/>
+<path fill="#745844" d="M16 52h4v4h-4z"/>
+<path fill="#79553a" d="M12 0h8v4h-8zM32 0h8v4h-8zM44 0h8v4h-8zM56 0h4v4h-4zM0 4h4v4h-4zM12 4h8v4h-8zM32 4h4v4h-4zM44 4h4v4h-4zM4 8h8v4h-8zM20 8h12v4h-12zM36 8h12v4h-12zM60 8h4v4h-4zM12 12h4v4h-4zM24 12h4v4h-4zM40 12h4v4h-4zM48 12h4v4h-4zM60 12h4v4h-4zM4 16h4v4h-4zM24 16h8v4h-8zM40 16h4v4h-4zM48 16h4v4h-4zM60 16h4v4h-4zM0 20h4v4h-4zM16 20h4v4h-4zM36 20h8v4h-8zM48 20h12v4h-12zM4 24h12v4h-12zM20 24h8v4h-8zM36 24h4v4h-4zM48 24h4v4h-4zM56 24h4v4h-4zM0 28h8v4h-8zM24 28h8v4h-8zM48 28h8v4h-8zM4 32h8v4h-8zM16 32h4v4h-4zM24 32h4v4h-4zM32 32h4v4h-4zM44 32h12v4h-12zM60 32h4v4h-4zM0 36h4v4h-4zM12 36h8v4h-8zM28 36h20v4h-20zM56 36h4v4h-4zM0 40h4v4h-4zM8 40h4v4h-4zM20 40h4v4h-4zM60 40h4v4h-4zM4 44h8v4h-8zM24 44h4v4h-4zM44 44h4v4h-4zM56 44h4v4h-4zM0 48h4v4h-4zM12 48h4v4h-4zM28 48h28v4h-28zM0 52h4v4h-4zM8 52h8v4h-8zM20 52h4v4h-4zM32 52h4v4h-4zM48 52h4v4h-4zM4 56h4v4h-4zM16 56h4v4h-4zM24 56h4v4h-4zM40 56h4v4h-4zM48 56h8v4h-8zM4 60h4v4h-4zM20 60h4v4h-4zM28 60h4v4h-4zM40 60h8v4h-8zM56 60h4v4h-4z"/>
+<path fill="#878787" d="M24 4h4v4h-4zM16 24h4v4h-4zM56 40h4v4h-4zM24 60h4v4h-4z"/>
+<path fill="#966c4a" d="M4 0h8v4h-8zM24 0h8v4h-8zM4 4h4v4h-4zM20 4h4v4h-4zM40 4h4v4h-4zM52 4h4v4h-4zM0 12h4v4h-4zM16 12h4v4h-4zM32 12h8v4h-8zM44 12h4v4h-4zM56 12h4v4h-4zM0 16h4v4h-4zM8 16h4v4h-4zM20 16h4v4h-4zM32 16h4v4h-4zM52 16h4v4h-4zM8 20h8v4h-8zM20 20h4v4h-4zM52 24h4v4h-4zM60 24h4v4h-4zM16 28h8v4h-8zM32 28h4v4h-4zM40 28h8v4h-8zM56 28h8v4h-8zM0 32h4v4h-4zM12 32h4v4h-4zM20 32h4v4h-4zM36 32h8v4h-8zM4 36h4v4h-4zM60 36h4v4h-4zM4 40h4v4h-4zM28 40h4v4h-4zM48 40h8v4h-8zM0 44h4v4h-4zM12 44h8v4h-8zM28 44h4v4h-4zM36 44h8v4h-8zM52 44h4v4h-4zM8 48h4v4h-4zM16 48h8v4h-8zM4 52h4v4h-4zM24 52h8v4h-8zM56 52h8v4h-8zM0 56h4v4h-4zM44 56h4v4h-4zM56 56h8v4h-8zM0 60h4v4h-4zM12 60h8v4h-8zM32 60h8v4h-8zM48 60h8v4h-8z"/>
+<path fill="#b9855c" d="M0 0h4v4h-4zM20 0h4v4h-4zM52 0h4v4h-4zM60 0h4v4h-4zM36 4h4v4h-4zM48 4h4v4h-4zM0 8h4v4h-4zM16 8h4v4h-4zM32 8h4v4h-4zM56 8h4v4h-4zM8 12h4v4h-4zM28 12h4v4h-4zM52 12h4v4h-4zM12 16h4v4h-4zM60 20h4v4h-4zM0 24h4v4h-4zM28 24h8v4h-8zM40 24h8v4h-8zM8 28h8v4h-8zM48 36h8v4h-8zM12 40h8v4h-8zM24 40h4v4h-4zM36 40h8v4h-8zM20 44h4v4h-4zM24 48h4v4h-4zM56 48h8v4h-8zM40 52h4v4h-4zM52 52h4v4h-4zM12 56h4v4h-4zM32 56h8v4h-8zM8 60h4v4h-4z"/>
+</pattern>
+<pattern id="stone" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#686868" d="M36 0h4v4h-4zM44 4h8v4h-8zM8 8h8v4h-8zM28 8h4v4h-4zM44 20h4v4h-4zM52 20h4v4h-4zM8 28h8v4h-8zM20 28h4v4h-4zM0 40h4v4h-4zM24 40h8v4h-8zM44 48h8v4h-8zM56 48h4v4h-4z"/>
+<path fill="#747474" d="M20 0h8v4h-8zM32 0h4v4h-4zM40 0h8v4h-8zM8 4h4v4h-4zM16 4h4v4h-4zM52 4h4v4h-4zM60 4h4v4h-4zM4 8h4v4h-4zM16 8h12v4h-12zM32 8h12v4h-12zM52 12h12v4h-12zM0 16h4v4h-4zM12 16h12v4h-12zM28 16h4v4h-4zM52 16h4v4h-4zM36 20h8v4h-8zM48 20h4v4h-4zM56 20h4v4h-4zM0 24h4v4h-4zM24 24h4v4h-4zM36 24h12v4h-12zM0 28h8v4h-8zM16 28h4v4h-4zM24 28h8v4h-8zM40 28h12v4h-12zM60 32h4v4h-4zM8 40h4v4h-4zM16 40h8v4h-8zM32 40h4v4h-4zM40 40h4v4h-4zM52 40h12v4h-12zM4 48h12v4h-12zM28 48h8v4h-8zM52 48h4v4h-4zM60 48h4v4h-4zM12 52h8v4h-8zM28 52h12v4h-12zM48 52h12v4h-12zM4 56h8v4h-8zM24 60h8v4h-8zM52 60h4v4h-4z"/>
+<path fill="#7f7f7f" d="M16 0h4v4h-4zM28 0h4v4h-4zM48 0h16v4h-16zM0 4h8v4h-8zM12 4h4v4h-4zM20 4h24v4h-24zM56 4h4v4h-4zM0 8h4v4h-4zM44 8h20v4h-20zM0 12h8v4h-8zM16 12h4v4h-4zM24 12h8v4h-8zM40 12h12v4h-12zM4 16h8v4h-8zM24 16h4v4h-4zM32 16h4v4h-4zM56 16h8v4h-8zM0 20h4v4h-4zM8 20h28v4h-28zM4 24h8v4h-8zM48 24h16v4h-16zM32 28h8v4h-8zM52 28h12v4h-12zM12 32h4v4h-4zM20 32h8v4h-8zM40 32h20v4h-20zM0 36h8v4h-8zM12 36h12v4h-12zM36 36h8v4h-8zM60 36h4v4h-4zM4 40h4v4h-4zM12 40h4v4h-4zM36 40h4v4h-4zM44 40h8v4h-8zM0 44h20v4h-20zM28 44h20v4h-20zM56 44h4v4h-4zM0 48h4v4h-4zM16 48h4v4h-4zM24 48h4v4h-4zM36 48h8v4h-8zM8 52h4v4h-4zM20 52h8v4h-8zM40 52h8v4h-8zM0 56h4v4h-4zM12 56h36v4h-36zM0 60h24v4h-24zM32 60h4v4h-4zM44 60h8v4h-8zM56 60h8v4h-8z"/>
+<path fill="#8f8f8f" d="M0 0h16v4h-16zM8 12h8v4h-8zM20 12h4v4h-4zM32 12h8v4h-8zM36 16h16v4h-16zM4 20h4v4h-4zM60 20h4v4h-4zM12 24h12v4h-12zM28 24h8v4h-8zM0 32h12v4h-12zM16 32h4v4h-4zM28 32h12v4h-12zM8 36h4v4h-4zM24 36h12v4h-12zM44 36h16v4h-16zM20 44h8v4h-8zM48 44h8v4h-8zM60 44h4v4h-4zM20 48h4v4h-4zM0 52h8v4h-8zM60 52h4v4h-4zM48 56h16v4h-16zM36 60h8v4h-8z"/>
+</pattern>
+</defs>
+<rect x="0" y="0" width="768" height="1024" fill="url(#dirt)"/>
+<rect x="512" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="384" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="384" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="384" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="448" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="448" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="448" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="448" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="448" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="448" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="512" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="512" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="512" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="512" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="512" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="512" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="512" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="576" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="576" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="576" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="576" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="576" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="576" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="576" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="640" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="704" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="768" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="832" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="896" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="960" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="704" width="64" height="64" fill="url(#dirt)"/>
+<rect x="320" y="704" width="64" height="64" fill="url(#dirt)"/>
+<rect x="384" y="704" width="64" height="64" fill="url(#dirt)"/>
+<rect x="320" y="768" width="64" height="64" fill="url(#dirt)"/>
+<rect x="384" y="768" width="64" height="64" fill="url(#dirt)"/>
+<rect x="448" y="768" width="64" height="64" fill="url(#dirt)"/>
+<rect x="384" y="832" width="64" height="64" fill="url(#dirt)"/>
+<rect x="448" y="832" width="64" height="64" fill="url(#dirt)"/>
+<rect x="0" y="896" width="64" height="64" fill="url(#dirt)"/>
+<rect x="64" y="896" width="64" height="64" fill="url(#dirt)"/>
+<rect x="576" y="64" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="384" y="960" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="576" y="0" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="192" y="896" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="448" y="512" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="640" y="320" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="0" y="960" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="320" y="128" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="192" y="704" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="0" y="832" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="128" y="704" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="384" y="832" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="256" y="512" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="448" y="320" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="640" y="576" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="640" y="704" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="128" y="896" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="192" y="896" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="576" y="768" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="0" y="0" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="192" y="256" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="192" y="576" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="512" y="704" width="64" height="64" fill="#000000" opacity="0.09"/>
+<rect x="192" y="640" width="64" height="64" fill="#000000" opacity="0.09"/>
+</svg>

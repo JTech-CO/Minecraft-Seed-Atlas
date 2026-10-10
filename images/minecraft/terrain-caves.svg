@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" style="image-rendering:pixelated" shape-rendering="crispEdges">
+<title>Overworld caves and mineral veins</title>
+<defs>
+<pattern id="stone" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#686868" d="M36 0h4v4h-4zM44 4h8v4h-8zM8 8h8v4h-8zM28 8h4v4h-4zM44 20h4v4h-4zM52 20h4v4h-4zM8 28h8v4h-8zM20 28h4v4h-4zM0 40h4v4h-4zM24 40h8v4h-8zM44 48h8v4h-8zM56 48h4v4h-4z"/>
+<path fill="#747474" d="M20 0h8v4h-8zM32 0h4v4h-4zM40 0h8v4h-8zM8 4h4v4h-4zM16 4h4v4h-4zM52 4h4v4h-4zM60 4h4v4h-4zM4 8h4v4h-4zM16 8h12v4h-12zM32 8h12v4h-12zM52 12h12v4h-12zM0 16h4v4h-4zM12 16h12v4h-12zM28 16h4v4h-4zM52 16h4v4h-4zM36 20h8v4h-8zM48 20h4v4h-4zM56 20h4v4h-4zM0 24h4v4h-4zM24 24h4v4h-4zM36 24h12v4h-12zM0 28h8v4h-8zM16 28h4v4h-4zM24 28h8v4h-8zM40 28h12v4h-12zM60 32h4v4h-4zM8 40h4v4h-4zM16 40h8v4h-8zM32 40h4v4h-4zM40 40h4v4h-4zM52 40h12v4h-12zM4 48h12v4h-12zM28 48h8v4h-8zM52 48h4v4h-4zM60 48h4v4h-4zM12 52h8v4h-8zM28 52h12v4h-12zM48 52h12v4h-12zM4 56h8v4h-8zM24 60h8v4h-8zM52 60h4v4h-4z"/>
+<path fill="#7f7f7f" d="M16 0h4v4h-4zM28 0h4v4h-4zM48 0h16v4h-16zM0 4h8v4h-8zM12 4h4v4h-4zM20 4h24v4h-24zM56 4h4v4h-4zM0 8h4v4h-4zM44 8h20v4h-20zM0 12h8v4h-8zM16 12h4v4h-4zM24 12h8v4h-8zM40 12h12v4h-12zM4 16h8v4h-8zM24 16h4v4h-4zM32 16h4v4h-4zM56 16h8v4h-8zM0 20h4v4h-4zM8 20h28v4h-28zM4 24h8v4h-8zM48 24h16v4h-16zM32 28h8v4h-8zM52 28h12v4h-12zM12 32h4v4h-4zM20 32h8v4h-8zM40 32h20v4h-20zM0 36h8v4h-8zM12 36h12v4h-12zM36 36h8v4h-8zM60 36h4v4h-4zM4 40h4v4h-4zM12 40h4v4h-4zM36 40h4v4h-4zM44 40h8v4h-8zM0 44h20v4h-20zM28 44h20v4h-20zM56 44h4v4h-4zM0 48h4v4h-4zM16 48h4v4h-4zM24 48h4v4h-4zM36 48h8v4h-8zM8 52h4v4h-4zM20 52h8v4h-8zM40 52h8v4h-8zM0 56h4v4h-4zM12 56h36v4h-36zM0 60h24v4h-24zM32 60h4v4h-4zM44 60h8v4h-8zM56 60h8v4h-8z"/>
+<path fill="#8f8f8f" d="M0 0h16v4h-16zM8 12h8v4h-8zM20 12h4v4h-4zM32 12h8v4h-8zM36 16h16v4h-16zM4 20h4v4h-4zM60 20h4v4h-4zM12 24h12v4h-12zM28 24h8v4h-8zM0 32h12v4h-12zM16 32h4v4h-4zM28 32h12v4h-12zM8 36h4v4h-4zM24 36h12v4h-12zM44 36h16v4h-16zM20 44h8v4h-8zM48 44h8v4h-8zM60 44h4v4h-4zM20 48h4v4h-4zM0 52h8v4h-8zM60 52h4v4h-4zM48 56h16v4h-16zM36 60h8v4h-8z"/>
+</pattern>
+<pattern id="deepslate" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#2f2f37" d="M8 4h8v4h-8zM28 8h16v4h-16zM52 8h4v4h-4zM0 16h4v4h-4zM24 20h4v4h-4zM20 24h4v4h-4zM48 24h8v4h-8zM48 28h4v4h-4zM8 36h8v4h-8zM52 36h8v4h-8zM36 40h8v4h-8zM12 52h8v4h-8zM40 52h4v4h-4zM48 52h8v4h-8zM28 56h4v4h-4zM28 60h4v4h-4z"/>
+<path fill="#3d3d43" d="M24 0h8v4h-8zM52 0h4v4h-4zM4 4h4v4h-4zM16 4h16v4h-16zM48 4h8v4h-8zM60 4h4v4h-4zM44 8h8v4h-8zM56 8h8v4h-8zM0 12h4v4h-4zM20 12h12v4h-12zM4 16h4v4h-4zM16 16h12v4h-12zM60 16h4v4h-4zM24 24h8v4h-8zM40 24h8v4h-8zM56 24h4v4h-4zM8 28h16v4h-16zM44 28h4v4h-4zM52 28h4v4h-4zM4 32h4v4h-4zM12 32h12v4h-12zM48 32h12v4h-12zM0 36h8v4h-8zM40 36h4v4h-4zM48 36h4v4h-4zM60 36h4v4h-4zM16 40h4v4h-4zM28 40h8v4h-8zM44 40h4v4h-4zM12 44h4v4h-4zM36 44h4v4h-4zM44 44h8v4h-8zM8 48h8v4h-8zM40 48h12v4h-12zM0 52h12v4h-12zM36 52h4v4h-4zM44 52h4v4h-4zM56 52h8v4h-8zM20 56h8v4h-8zM32 56h4v4h-4z"/>
+<path fill="#515151" d="M8 0h16v4h-16zM44 0h8v4h-8zM56 0h8v4h-8zM0 4h4v4h-4zM32 4h4v4h-4zM40 4h8v4h-8zM56 4h4v4h-4zM20 8h8v4h-8zM4 12h4v4h-4zM12 12h8v4h-8zM32 12h4v4h-4zM60 12h4v4h-4zM8 16h8v4h-8zM28 16h4v4h-4zM56 16h4v4h-4zM8 20h4v4h-4zM16 20h8v4h-8zM28 20h4v4h-4zM40 20h4v4h-4zM48 20h12v4h-12zM12 24h8v4h-8zM32 24h8v4h-8zM60 24h4v4h-4zM4 28h4v4h-4zM40 28h4v4h-4zM56 28h8v4h-8zM0 32h4v4h-4zM8 32h4v4h-4zM24 32h4v4h-4zM36 32h4v4h-4zM44 32h4v4h-4zM60 32h4v4h-4zM16 36h12v4h-12zM32 36h8v4h-8zM44 36h4v4h-4zM4 40h4v4h-4zM12 40h4v4h-4zM20 40h8v4h-8zM48 40h8v4h-8zM8 44h4v4h-4zM32 44h4v4h-4zM40 44h4v4h-4zM52 44h4v4h-4zM4 48h4v4h-4zM16 48h4v4h-4zM36 48h4v4h-4zM52 48h4v4h-4zM20 52h4v4h-4zM32 52h4v4h-4zM16 56h4v4h-4zM44 56h8v4h-8zM12 60h4v4h-4zM20 60h8v4h-8zM32 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#646464" d="M4 0h4v4h-4zM32 0h12v4h-12zM36 4h4v4h-4zM0 8h8v4h-8zM12 8h8v4h-8zM8 12h4v4h-4zM36 12h4v4h-4zM48 12h12v4h-12zM32 16h12v4h-12zM48 16h8v4h-8zM12 20h4v4h-4zM32 20h8v4h-8zM44 20h4v4h-4zM60 20h4v4h-4zM4 24h8v4h-8zM0 28h4v4h-4zM24 28h4v4h-4zM32 28h8v4h-8zM32 32h4v4h-4zM40 32h4v4h-4zM28 36h4v4h-4zM0 40h4v4h-4zM8 40h4v4h-4zM0 44h8v4h-8zM16 44h4v4h-4zM60 44h4v4h-4zM0 48h4v4h-4zM24 48h12v4h-12zM56 48h8v4h-8zM24 52h8v4h-8zM8 56h8v4h-8zM40 56h4v4h-4zM52 56h8v4h-8zM8 60h4v4h-4zM16 60h4v4h-4zM40 60h8v4h-8zM56 60h8v4h-8z"/>
+<path fill="#797979" d="M0 0h4v4h-4zM8 8h4v4h-4zM40 12h8v4h-8zM44 16h4v4h-4zM0 20h8v4h-8zM0 24h4v4h-4zM28 28h4v4h-4zM28 32h4v4h-4zM56 40h8v4h-8zM20 44h12v4h-12zM56 44h4v4h-4zM20 48h4v4h-4zM0 56h8v4h-8zM36 56h4v4h-4zM60 56h4v4h-4zM0 60h8v4h-8zM36 60h4v4h-4z"/>
+</pattern>
+<pattern id="deepslate_iron_ore" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#2f2f37" d="M8 4h8v4h-8zM24 8h12v4h-12zM0 16h4v4h-4zM48 24h8v4h-8zM48 28h4v4h-4zM52 36h8v4h-8zM36 40h4v4h-4zM12 52h4v4h-4zM28 56h4v4h-4zM28 60h4v4h-4z"/>
+<path fill="#3d3d43" d="M24 0h8v4h-8zM52 0h4v4h-4zM4 4h4v4h-4zM16 4h16v4h-16zM60 4h4v4h-4zM20 8h4v4h-4zM36 8h4v4h-4zM56 8h8v4h-8zM0 12h4v4h-4zM28 12h4v4h-4zM4 16h4v4h-4zM16 16h12v4h-12zM60 16h4v4h-4zM44 24h4v4h-4zM56 24h4v4h-4zM8 28h16v4h-16zM44 28h4v4h-4zM52 28h4v4h-4zM4 32h4v4h-4zM20 32h4v4h-4zM52 32h8v4h-8zM0 36h8v4h-8zM60 36h4v4h-4zM28 40h8v4h-8zM12 44h4v4h-4zM36 44h4v4h-4zM8 48h8v4h-8zM0 52h4v4h-4zM60 52h4v4h-4zM20 56h8v4h-8zM32 56h4v4h-4z"/>
+<path fill="#515151" d="M8 0h16v4h-16zM44 0h8v4h-8zM56 0h8v4h-8zM0 4h4v4h-4zM32 4h4v4h-4zM56 4h4v4h-4zM20 12h8v4h-8zM32 12h4v4h-4zM60 12h4v4h-4zM56 16h4v4h-4zM8 20h4v4h-4zM48 20h4v4h-4zM12 24h4v4h-4zM60 24h4v4h-4zM4 28h4v4h-4zM40 28h4v4h-4zM56 28h8v4h-8zM0 32h4v4h-4zM8 32h4v4h-4zM24 32h4v4h-4zM60 32h4v4h-4zM32 36h8v4h-8zM4 40h4v4h-4zM48 40h8v4h-8zM8 44h4v4h-4zM32 44h4v4h-4zM40 44h4v4h-4zM52 44h4v4h-4zM4 48h4v4h-4zM32 52h4v4h-4zM16 56h4v4h-4zM20 60h8v4h-8zM32 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#646464" d="M4 0h4v4h-4zM32 0h12v4h-12zM36 4h4v4h-4zM0 8h8v4h-8zM36 12h8v4h-8zM52 12h8v4h-8zM48 16h8v4h-8zM12 20h4v4h-4zM60 20h4v4h-4zM4 24h8v4h-8zM0 28h4v4h-4zM36 28h4v4h-4zM32 32h4v4h-4zM28 36h4v4h-4zM0 40h4v4h-4zM8 40h4v4h-4zM0 44h8v4h-8zM60 44h4v4h-4zM0 48h4v4h-4zM28 48h4v4h-4zM60 48h4v4h-4zM24 52h8v4h-8zM36 56h4v4h-4zM52 56h8v4h-8zM0 60h8v4h-8zM16 60h4v4h-4zM36 60h12v4h-12zM56 60h8v4h-8z"/>
+<path fill="#77674f" d="M40 4h4v4h-4zM52 4h4v4h-4zM36 32h4v4h-4zM48 32h4v4h-4zM8 36h4v4h-4zM44 44h4v4h-4zM32 48h4v4h-4zM12 56h4v4h-4z"/>
+<path fill="#797979" d="M0 0h4v4h-4zM40 8h4v4h-4zM52 8h4v4h-4zM16 12h4v4h-4zM44 12h8v4h-8zM8 16h8v4h-8zM0 20h8v4h-8zM44 20h4v4h-4zM0 24h4v4h-4zM16 24h8v4h-8zM36 24h8v4h-8zM24 28h12v4h-12zM28 32h4v4h-4zM48 36h4v4h-4zM12 40h4v4h-4zM24 40h4v4h-4zM40 40h8v4h-8zM56 40h8v4h-8zM16 44h16v4h-16zM56 44h4v4h-4zM24 48h4v4h-4zM16 52h8v4h-8zM52 52h8v4h-8zM0 56h8v4h-8zM40 56h12v4h-12zM60 56h4v4h-4zM8 60h8v4h-8z"/>
+<path fill="#887455" d="M44 4h8v4h-8zM8 8h4v4h-4zM16 8h4v4h-4zM44 8h4v4h-4zM4 12h4v4h-4zM28 16h8v4h-8zM44 16h4v4h-4zM16 20h4v4h-4zM52 20h4v4h-4zM12 32h4v4h-4zM40 32h4v4h-4zM48 44h4v4h-4zM16 48h4v4h-4zM36 48h4v4h-4zM56 48h4v4h-4zM4 52h4v4h-4zM8 56h4v4h-4z"/>
+<path fill="#af8e77" d="M12 8h4v4h-4zM48 8h4v4h-4zM8 12h4v4h-4zM36 16h8v4h-8zM20 20h4v4h-4zM40 20h4v4h-4zM56 20h4v4h-4zM24 24h4v4h-4zM16 32h4v4h-4zM44 32h4v4h-4zM12 36h8v4h-8zM40 36h4v4h-4zM20 48h4v4h-4zM40 48h4v4h-4zM52 48h4v4h-4zM8 52h4v4h-4zM36 52h4v4h-4zM48 52h4v4h-4z"/>
+<path fill="#d8af93" d="M12 12h4v4h-4zM24 20h8v4h-8zM36 20h4v4h-4zM28 24h8v4h-8zM20 36h8v4h-8zM44 36h4v4h-4zM16 40h4v4h-4zM44 48h8v4h-8zM40 52h4v4h-4z"/>
+<path fill="#e2c0aa" d="M32 20h4v4h-4zM20 40h4v4h-4zM44 52h4v4h-4z"/>
+</pattern>
+<pattern id="deepslate_gold_ore" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#2f2f37" d="M8 4h8v4h-8zM52 4h8v4h-8zM24 8h4v4h-4zM32 8h12v4h-12zM48 8h4v4h-4zM20 12h4v4h-4zM0 16h4v4h-4zM48 24h8v4h-8zM40 36h8v4h-8zM56 36h4v4h-4zM36 40h4v4h-4zM8 44h8v4h-8zM4 48h4v4h-4zM28 56h4v4h-4zM28 60h4v4h-4z"/>
+<path fill="#3d3d43" d="M24 0h4v4h-4zM52 0h4v4h-4zM4 4h4v4h-4zM28 4h4v4h-4zM48 4h4v4h-4zM60 4h4v4h-4zM44 8h4v4h-4zM60 8h4v4h-4zM0 12h4v4h-4zM4 16h4v4h-4zM16 16h4v4h-4zM60 16h4v4h-4zM40 24h8v4h-8zM56 24h4v4h-4zM8 28h12v4h-12zM44 28h4v4h-4zM4 32h4v4h-4zM20 32h4v4h-4zM48 32h4v4h-4zM0 36h8v4h-8zM48 36h4v4h-4zM60 36h4v4h-4zM28 40h8v4h-8zM16 44h4v4h-4zM28 44h4v4h-4zM0 52h4v4h-4zM36 52h4v4h-4zM56 52h8v4h-8zM24 56h4v4h-4zM32 56h4v4h-4z"/>
+<path fill="#515151" d="M8 0h16v4h-16zM28 0h4v4h-4zM44 0h8v4h-8zM56 0h8v4h-8zM0 4h4v4h-4zM24 4h4v4h-4zM32 4h4v4h-4zM40 4h8v4h-8zM20 8h4v4h-4zM4 12h4v4h-4zM12 12h8v4h-8zM60 12h4v4h-4zM8 16h8v4h-8zM8 20h4v4h-4zM40 20h4v4h-4zM56 20h4v4h-4zM12 24h4v4h-4zM36 24h4v4h-4zM60 24h4v4h-4zM4 28h4v4h-4zM40 28h4v4h-4zM48 28h4v4h-4zM0 32h4v4h-4zM16 32h4v4h-4zM36 32h4v4h-4zM44 32h4v4h-4zM20 36h4v4h-4zM32 36h8v4h-8zM4 40h4v4h-4zM24 40h4v4h-4zM52 40h4v4h-4zM32 44h4v4h-4zM32 52h4v4h-4zM48 56h8v4h-8zM20 60h8v4h-8zM32 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#646464" d="M4 0h4v4h-4zM32 0h12v4h-12zM36 4h4v4h-4zM0 8h8v4h-8zM12 8h4v4h-4zM8 12h4v4h-4zM36 12h4v4h-4zM36 16h8v4h-8zM12 20h4v4h-4zM36 20h4v4h-4zM44 20h4v4h-4zM60 20h4v4h-4zM4 24h8v4h-8zM0 28h4v4h-4zM36 28h4v4h-4zM32 32h4v4h-4zM40 32h4v4h-4zM60 32h4v4h-4zM28 36h4v4h-4zM52 36h4v4h-4zM0 40h4v4h-4zM16 40h8v4h-8zM0 44h8v4h-8zM60 44h4v4h-4zM0 48h4v4h-4zM24 48h4v4h-4zM32 48h4v4h-4zM60 48h4v4h-4zM24 52h4v4h-4zM52 52h4v4h-4zM8 56h4v4h-4zM8 60h4v4h-4zM40 60h8v4h-8zM60 60h4v4h-4z"/>
+<path fill="#797979" d="M0 0h4v4h-4zM20 4h4v4h-4zM8 8h4v4h-4zM16 8h4v4h-4zM40 12h8v4h-8zM44 16h4v4h-4zM56 16h4v4h-4zM0 20h8v4h-8zM48 20h8v4h-8zM0 24h4v4h-4zM16 24h4v4h-4zM20 28h4v4h-4zM28 28h8v4h-8zM60 28h4v4h-4zM28 32h4v4h-4zM52 32h8v4h-8zM16 36h4v4h-4zM24 36h4v4h-4zM8 40h8v4h-8zM56 40h8v4h-8zM20 44h8v4h-8zM20 48h4v4h-4zM36 48h4v4h-4zM52 48h8v4h-8zM28 52h4v4h-4zM48 52h4v4h-4zM0 56h8v4h-8zM20 56h4v4h-4zM36 56h12v4h-12zM60 56h4v4h-4zM0 60h8v4h-8zM12 60h8v4h-8zM36 60h4v4h-4zM56 60h4v4h-4z"/>
+<path fill="#9c6420" d="M16 4h4v4h-4zM28 8h4v4h-4zM52 8h8v4h-8zM24 12h4v4h-4zM32 12h4v4h-4zM48 12h4v4h-4zM56 12h4v4h-4zM20 16h4v4h-4zM32 16h4v4h-4zM32 24h4v4h-4zM56 28h4v4h-4zM8 32h4v4h-4zM24 32h4v4h-4zM40 40h8v4h-8zM36 44h4v4h-4zM56 44h4v4h-4zM8 48h8v4h-8zM28 48h4v4h-4zM4 52h4v4h-4zM40 52h4v4h-4z"/>
+<path fill="#eb9d0e" d="M28 12h4v4h-4zM52 12h4v4h-4zM24 16h4v4h-4zM48 16h8v4h-8zM16 20h4v4h-4zM32 20h4v4h-4zM20 24h4v4h-4zM28 24h4v4h-4zM24 28h4v4h-4zM52 28h4v4h-4zM12 32h4v4h-4zM8 36h4v4h-4zM48 40h4v4h-4zM40 44h8v4h-8zM16 48h4v4h-4zM40 48h4v4h-4zM8 52h4v4h-4zM44 52h4v4h-4zM12 56h4v4h-4zM56 56h4v4h-4z"/>
+<path fill="#fcee4b" d="M28 16h4v4h-4zM20 20h8v4h-8zM24 24h4v4h-4zM12 36h4v4h-4zM52 44h4v4h-4zM44 48h8v4h-8zM12 52h4v4h-4zM20 52h4v4h-4zM16 56h4v4h-4z"/>
+<path fill="#ffffb5" d="M28 20h4v4h-4zM48 44h4v4h-4zM16 52h4v4h-4z"/>
+</pattern>
+<pattern id="deepslate_redstone_ore" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#2f2f37" d="M8 4h8v4h-8zM32 8h12v4h-12zM52 8h4v4h-4zM0 16h4v4h-4zM48 28h4v4h-4zM36 40h8v4h-8zM40 52h4v4h-4zM48 52h8v4h-8zM28 56h4v4h-4zM28 60h4v4h-4z"/>
+<path fill="#3b2c2c" d="M28 8h4v4h-4zM32 12h4v4h-4zM12 28h4v4h-4zM16 32h4v4h-4zM12 44h4v4h-4zM24 44h4v4h-4zM8 48h4v4h-4z"/>
+<path fill="#3d3d43" d="M24 0h8v4h-8zM52 0h4v4h-4zM4 4h4v4h-4zM16 4h16v4h-16zM48 4h8v4h-8zM60 4h4v4h-4zM44 8h8v4h-8zM56 8h8v4h-8zM0 12h4v4h-4zM4 16h4v4h-4zM60 16h4v4h-4zM40 24h8v4h-8zM56 24h4v4h-4zM16 28h8v4h-8zM52 28h4v4h-4zM20 32h4v4h-4zM0 36h4v4h-4zM40 36h4v4h-4zM60 36h4v4h-4zM16 40h4v4h-4zM28 40h8v4h-8zM44 40h4v4h-4zM36 44h4v4h-4zM44 44h8v4h-8zM40 48h4v4h-4zM0 52h12v4h-12zM36 52h4v4h-4zM44 52h4v4h-4zM56 52h8v4h-8zM24 56h4v4h-4zM32 56h4v4h-4z"/>
+<path fill="#4d3737" d="M20 8h8v4h-8zM12 12h8v4h-8zM4 28h8v4h-8zM40 28h8v4h-8zM0 32h4v4h-4zM16 44h8v4h-8z"/>
+<path fill="#515151" d="M8 0h16v4h-16zM44 0h8v4h-8zM56 0h8v4h-8zM0 4h4v4h-4zM32 4h4v4h-4zM40 4h8v4h-8zM56 4h4v4h-4zM4 12h4v4h-4zM60 12h4v4h-4zM8 16h4v4h-4zM56 16h4v4h-4zM8 20h4v4h-4zM40 20h4v4h-4zM12 24h8v4h-8zM32 24h8v4h-8zM60 24h4v4h-4zM56 28h8v4h-8zM24 32h4v4h-4zM60 32h4v4h-4zM16 36h12v4h-12zM32 36h8v4h-8zM12 40h4v4h-4zM20 40h8v4h-8zM8 44h4v4h-4zM32 44h4v4h-4zM40 44h4v4h-4zM52 44h4v4h-4zM4 48h4v4h-4zM36 48h4v4h-4zM52 48h4v4h-4zM32 52h4v4h-4zM44 56h8v4h-8zM12 60h4v4h-4zM20 60h8v4h-8zM32 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#646464" d="M4 0h4v4h-4zM32 0h12v4h-12zM36 4h4v4h-4zM0 8h8v4h-8zM12 8h8v4h-8zM8 12h4v4h-4zM36 12h4v4h-4zM48 12h12v4h-12zM40 16h4v4h-4zM48 16h8v4h-8zM12 20h4v4h-4zM36 20h4v4h-4zM44 20h4v4h-4zM60 20h4v4h-4zM4 24h8v4h-8zM0 28h4v4h-4zM24 28h4v4h-4zM32 28h8v4h-8zM32 32h4v4h-4zM28 36h4v4h-4zM0 40h4v4h-4zM0 44h8v4h-8zM60 44h4v4h-4zM0 48h4v4h-4zM32 48h4v4h-4zM56 48h8v4h-8zM24 52h8v4h-8zM8 56h8v4h-8zM40 56h4v4h-4zM52 56h8v4h-8zM8 60h4v4h-4zM16 60h4v4h-4zM40 60h8v4h-8zM56 60h8v4h-8z"/>
+<path fill="#797979" d="M0 0h4v4h-4zM8 8h4v4h-4zM40 12h8v4h-8zM44 16h4v4h-4zM0 20h8v4h-8zM0 24h4v4h-4zM28 28h4v4h-4zM28 32h4v4h-4zM56 40h8v4h-8zM28 44h4v4h-4zM56 44h4v4h-4zM0 56h8v4h-8zM36 56h4v4h-4zM60 56h4v4h-4zM0 60h8v4h-8zM36 60h4v4h-4z"/>
+<path fill="#845959" d="M32 20h4v4h-4zM56 20h4v4h-4zM20 24h12v4h-12zM48 24h8v4h-8zM12 36h4v4h-4zM56 36h4v4h-4zM4 40h8v4h-8zM48 40h8v4h-8zM12 52h4v4h-4zM16 56h8v4h-8z"/>
+<path fill="#960606" d="M20 12h12v4h-12zM16 16h4v4h-4zM12 32h4v4h-4zM36 32h4v4h-4zM44 32h4v4h-4zM4 36h4v4h-4zM12 48h4v4h-4zM28 48h4v4h-4z"/>
+<path fill="#970303" d="M36 16h4v4h-4z"/>
+<path fill="#c60404" d="M32 16h4v4h-4zM16 20h4v4h-4z"/>
+<path fill="#ca0707" d="M12 16h4v4h-4zM20 16h4v4h-4zM48 20h4v4h-4zM40 32h4v4h-4zM48 32h4v4h-4zM20 48h4v4h-4zM44 48h4v4h-4z"/>
+<path fill="#f71c1c" d="M52 20h4v4h-4zM4 32h4v4h-4zM56 32h4v4h-4zM8 36h4v4h-4zM52 36h4v4h-4zM16 48h4v4h-4zM24 48h4v4h-4zM48 48h4v4h-4z"/>
+<path fill="#fd5e5e" d="M28 16h4v4h-4zM8 32h4v4h-4zM52 32h4v4h-4zM44 36h4v4h-4zM16 52h4v4h-4z"/>
+<path fill="#ff0000" d="M24 16h4v4h-4zM20 20h4v4h-4zM28 20h4v4h-4z"/>
+<path fill="#ff8989" d="M24 20h4v4h-4zM48 36h4v4h-4zM20 52h4v4h-4z"/>
+</pattern>
+<pattern id="deepslate_diamond_ore" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#148f92" d="M52 8h4v4h-4zM32 12h4v4h-4zM28 24h4v4h-4zM44 24h4v4h-4zM36 36h8v4h-8zM48 44h4v4h-4zM52 48h4v4h-4zM16 52h4v4h-4zM36 52h4v4h-4z"/>
+<path fill="#1ed0d6" d="M16 8h4v4h-4zM20 24h8v4h-8zM40 24h4v4h-4zM8 32h4v4h-4zM32 36h4v4h-4zM16 40h4v4h-4zM44 48h8v4h-8zM40 52h4v4h-4z"/>
+<path fill="#2f2f37" d="M8 4h8v4h-8zM36 8h8v4h-8zM0 16h4v4h-4zM52 24h4v4h-4zM48 28h4v4h-4zM12 36h4v4h-4zM52 36h8v4h-8zM28 56h4v4h-4zM28 60h4v4h-4z"/>
+<path fill="#314040" d="M16 4h4v4h-4zM28 8h8v4h-8zM8 28h4v4h-4zM32 28h8v4h-8zM24 32h8v4h-8zM44 40h8v4h-8zM36 44h8v4h-8zM12 48h8v4h-8z"/>
+<path fill="#3d3d43" d="M24 0h8v4h-8zM52 0h4v4h-4zM4 4h4v4h-4zM20 4h12v4h-12zM48 4h8v4h-8zM60 4h4v4h-4zM44 8h4v4h-4zM60 8h4v4h-4zM0 12h4v4h-4zM20 12h8v4h-8zM4 16h4v4h-4zM16 16h12v4h-12zM60 16h4v4h-4zM56 24h4v4h-4zM52 28h4v4h-4zM16 32h8v4h-8zM48 32h12v4h-12zM0 36h4v4h-4zM48 36h4v4h-4zM60 36h4v4h-4zM28 40h4v4h-4zM12 44h4v4h-4zM8 48h4v4h-4zM0 52h8v4h-8zM56 52h8v4h-8zM20 56h8v4h-8zM32 56h4v4h-4z"/>
+<path fill="#515151" d="M8 0h16v4h-16zM44 0h8v4h-8zM56 0h8v4h-8zM0 4h4v4h-4zM32 4h4v4h-4zM40 4h8v4h-8zM56 4h4v4h-4zM20 8h8v4h-8zM4 12h4v4h-4zM12 12h4v4h-4zM60 12h4v4h-4zM8 16h8v4h-8zM56 16h4v4h-4zM8 20h4v4h-4zM16 20h4v4h-4zM28 20h4v4h-4zM52 20h8v4h-8zM36 24h4v4h-4zM60 24h4v4h-4zM4 28h4v4h-4zM56 28h8v4h-8zM0 32h4v4h-4zM44 32h4v4h-4zM60 32h4v4h-4zM16 36h12v4h-12zM4 40h4v4h-4zM12 40h4v4h-4zM20 40h8v4h-8zM52 40h4v4h-4zM8 44h4v4h-4zM32 44h4v4h-4zM52 44h4v4h-4zM4 48h4v4h-4zM32 52h4v4h-4zM44 56h8v4h-8zM12 60h4v4h-4zM20 60h8v4h-8zM32 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#617977" d="M48 20h4v4h-4zM32 24h4v4h-4zM20 28h4v4h-4zM28 28h4v4h-4zM44 28h4v4h-4zM12 32h4v4h-4zM4 36h8v4h-8zM44 36h4v4h-4zM32 40h4v4h-4zM56 48h4v4h-4zM8 52h4v4h-4zM52 52h4v4h-4zM36 56h4v4h-4z"/>
+<path fill="#646464" d="M4 0h4v4h-4zM32 0h12v4h-12zM36 4h4v4h-4zM0 8h8v4h-8zM12 8h4v4h-4zM8 12h4v4h-4zM56 12h4v4h-4zM36 16h8v4h-8zM48 16h8v4h-8zM12 20h4v4h-4zM32 20h8v4h-8zM60 20h4v4h-4zM4 24h4v4h-4zM0 28h4v4h-4zM40 32h4v4h-4zM0 40h4v4h-4zM8 40h4v4h-4zM0 44h8v4h-8zM16 44h4v4h-4zM60 44h4v4h-4zM0 48h4v4h-4zM24 48h8v4h-8zM60 48h4v4h-4zM24 52h8v4h-8zM8 56h4v4h-4zM52 56h8v4h-8zM8 60h4v4h-4zM16 60h4v4h-4zM40 60h8v4h-8zM56 60h8v4h-8z"/>
+<path fill="#648a8c" d="M56 8h4v4h-4zM16 12h4v4h-4zM36 12h4v4h-4zM48 12h8v4h-8zM28 16h8v4h-8zM8 24h4v4h-4zM48 24h4v4h-4zM12 28h8v4h-8zM24 28h4v4h-4zM40 28h4v4h-4zM36 40h8v4h-8zM20 52h4v4h-4zM44 52h8v4h-8zM12 56h8v4h-8zM40 56h4v4h-4z"/>
+<path fill="#77e7d1" d="M48 8h4v4h-4zM28 12h4v4h-4zM24 20h4v4h-4zM44 20h4v4h-4zM16 24h4v4h-4zM4 32h4v4h-4zM36 32h4v4h-4zM28 36h4v4h-4zM44 44h4v4h-4zM32 48h4v4h-4zM40 48h4v4h-4zM12 52h4v4h-4z"/>
+<path fill="#797979" d="M0 0h4v4h-4zM8 8h4v4h-4zM40 12h8v4h-8zM44 16h4v4h-4zM0 20h8v4h-8zM0 24h4v4h-4zM56 40h8v4h-8zM20 44h12v4h-12zM56 44h4v4h-4zM20 48h4v4h-4zM0 56h8v4h-8zM60 56h4v4h-4zM0 60h8v4h-8zM36 60h4v4h-4z"/>
+<path fill="#d5fff6" d="M20 20h4v4h-4zM40 20h4v4h-4zM12 24h4v4h-4zM32 32h4v4h-4zM36 48h4v4h-4z"/>
+</pattern>
+<pattern id="deepslate_lapis_ore" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#10349c" d="M12 44h8v4h-8zM20 48h4v4h-4z"/>
+<path fill="#1034bd" d="M48 8h4v4h-4zM44 20h4v4h-4zM12 24h4v4h-4zM32 40h4v4h-4zM52 48h4v4h-4zM40 52h4v4h-4z"/>
+<path fill="#1044ac" d="M20 12h4v4h-4zM24 20h4v4h-4zM4 28h4v4h-4zM28 32h4v4h-4zM28 36h4v4h-4zM52 36h4v4h-4zM16 40h4v4h-4z"/>
+<path fill="#16448d" d="M20 8h4v4h-4zM52 8h4v4h-4zM28 12h4v4h-4zM28 24h4v4h-4zM40 32h8v4h-8zM44 36h4v4h-4zM8 44h4v4h-4zM32 48h4v4h-4zM24 56h4v4h-4z"/>
+<path fill="#1855bd" d="M8 8h4v4h-4zM16 8h4v4h-4zM20 20h4v4h-4zM36 32h4v4h-4zM32 36h4v4h-4zM24 52h4v4h-4zM16 56h4v4h-4z"/>
+<path fill="#20598b" d="M12 8h4v4h-4zM40 20h4v4h-4zM56 40h4v4h-4z"/>
+<path fill="#2f2f37" d="M8 4h4v4h-4zM16 4h8v4h-8zM48 4h4v4h-4zM28 8h4v4h-4zM36 8h8v4h-8zM0 16h4v4h-4zM52 32h4v4h-4zM56 36h4v4h-4zM12 52h4v4h-4z"/>
+<path fill="#3d3d43" d="M24 0h8v4h-8zM52 0h4v4h-4zM4 4h4v4h-4zM12 4h4v4h-4zM24 4h8v4h-8zM52 4h4v4h-4zM60 4h4v4h-4zM32 8h4v4h-4zM44 8h4v4h-4zM60 8h4v4h-4zM0 12h4v4h-4zM4 16h4v4h-4zM16 16h4v4h-4zM24 16h4v4h-4zM60 16h4v4h-4zM12 20h8v4h-8zM8 24h4v4h-4zM56 24h4v4h-4zM52 28h4v4h-4zM16 32h8v4h-8zM56 32h4v4h-4zM0 36h4v4h-4zM60 36h4v4h-4zM8 48h4v4h-4zM0 52h12v4h-12zM60 52h4v4h-4zM32 60h4v4h-4z"/>
+<path fill="#446fdc" d="M32 12h4v4h-4zM16 24h4v4h-4zM24 24h4v4h-4zM40 24h4v4h-4zM8 28h4v4h-4zM4 32h4v4h-4zM36 36h8v4h-8zM36 40h4v4h-4zM52 40h4v4h-4zM56 44h4v4h-4zM36 48h8v4h-8zM56 48h4v4h-4zM16 52h4v4h-4zM32 52h4v4h-4zM20 56h4v4h-4z"/>
+<path fill="#515151" d="M8 0h16v4h-16zM44 0h8v4h-8zM56 0h8v4h-8zM0 4h4v4h-4zM32 4h4v4h-4zM40 4h8v4h-8zM56 4h4v4h-4zM24 8h4v4h-4zM4 12h4v4h-4zM60 12h4v4h-4zM8 16h8v4h-8zM56 16h4v4h-4zM8 20h4v4h-4zM48 20h12v4h-12zM32 24h8v4h-8zM60 24h4v4h-4zM56 28h8v4h-8zM0 32h4v4h-4zM12 32h4v4h-4zM24 32h4v4h-4zM60 32h4v4h-4zM16 36h8v4h-8zM12 40h4v4h-4zM20 40h8v4h-8zM48 40h4v4h-4zM32 44h4v4h-4zM4 48h4v4h-4zM44 48h4v4h-4zM48 52h4v4h-4zM32 56h4v4h-4zM44 56h8v4h-8zM12 60h4v4h-4zM28 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#646464" d="M4 0h4v4h-4zM32 0h12v4h-12zM36 4h4v4h-4zM0 8h8v4h-8zM12 12h8v4h-8zM40 12h4v4h-4zM56 12h4v4h-4zM36 16h20v4h-20zM28 20h12v4h-12zM60 20h4v4h-4zM4 24h4v4h-4zM52 24h4v4h-4zM0 28h4v4h-4zM12 28h4v4h-4zM32 28h8v4h-8zM48 28h4v4h-4zM32 32h4v4h-4zM48 32h4v4h-4zM24 36h4v4h-4zM48 36h4v4h-4zM0 40h4v4h-4zM8 40h4v4h-4zM0 44h8v4h-8zM28 44h4v4h-4zM44 44h8v4h-8zM60 44h4v4h-4zM0 48h4v4h-4zM24 48h8v4h-8zM48 48h4v4h-4zM28 52h4v4h-4zM8 56h8v4h-8zM52 56h8v4h-8zM8 60h4v4h-4zM16 60h4v4h-4zM40 60h8v4h-8zM56 60h8v4h-8z"/>
+<path fill="#6995f4" d="M20 24h4v4h-4zM44 24h4v4h-4zM8 32h4v4h-4zM40 40h4v4h-4zM52 44h4v4h-4zM20 52h4v4h-4zM36 52h4v4h-4z"/>
+<path fill="#797979" d="M0 0h4v4h-4zM56 8h4v4h-4zM8 12h4v4h-4zM24 12h4v4h-4zM36 12h4v4h-4zM44 12h12v4h-12zM20 16h4v4h-4zM28 16h8v4h-8zM0 20h8v4h-8zM0 24h4v4h-4zM48 24h4v4h-4zM16 28h16v4h-16zM40 28h8v4h-8zM4 36h12v4h-12zM4 40h4v4h-4zM28 40h4v4h-4zM44 40h4v4h-4zM60 40h4v4h-4zM20 44h8v4h-8zM36 44h8v4h-8zM12 48h8v4h-8zM60 48h4v4h-4zM44 52h4v4h-4zM52 52h8v4h-8zM0 56h8v4h-8zM28 56h4v4h-4zM36 56h8v4h-8zM60 56h4v4h-4zM0 60h8v4h-8zM20 60h8v4h-8zM36 60h4v4h-4z"/>
+</pattern>
+</defs>
+<rect x="0" y="0" width="768" height="1024" fill="url(#deepslate)"/>
+<rect x="0" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="0" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="64" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="448" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="512" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="128" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="256" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="320" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="384" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="192" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="128" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="192" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="576" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="256" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="640" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="704" y="320" width="64" height="64" fill="url(#stone)"/>
+<rect x="0" y="384" width="64" height="64" fill="url(#stone)"/>
+<rect x="64" y="64" width="64" height="64" fill="#101214"/>
+<rect x="128" y="64" width="64" height="64" fill="#101214"/>
+<rect x="0" y="128" width="64" height="64" fill="#101214"/>
+<rect x="64" y="128" width="64" height="64" fill="#101214"/>
+<rect x="128" y="128" width="64" height="64" fill="#101214"/>
+<rect x="192" y="128" width="64" height="64" fill="#101214"/>
+<rect x="0" y="192" width="64" height="64" fill="#101214"/>
+<rect x="64" y="192" width="64" height="64" fill="#101214"/>
+<rect x="128" y="192" width="64" height="64" fill="#101214"/>
+<rect x="192" y="192" width="64" height="64" fill="#101214"/>
+<rect x="256" y="192" width="64" height="64" fill="#101214"/>
+<rect x="576" y="192" width="64" height="64" fill="#101214"/>
+<rect x="640" y="192" width="64" height="64" fill="#101214"/>
+<rect x="64" y="256" width="64" height="64" fill="#101214"/>
+<rect x="128" y="256" width="64" height="64" fill="#101214"/>
+<rect x="192" y="256" width="64" height="64" fill="#101214"/>
+<rect x="512" y="256" width="64" height="64" fill="#101214"/>
+<rect x="576" y="256" width="64" height="64" fill="#101214"/>
+<rect x="640" y="256" width="64" height="64" fill="#101214"/>
+<rect x="704" y="256" width="64" height="64" fill="#101214"/>
+<rect x="512" y="320" width="64" height="64" fill="#101214"/>
+<rect x="576" y="320" width="64" height="64" fill="#101214"/>
+<rect x="640" y="320" width="64" height="64" fill="#101214"/>
+<rect x="704" y="320" width="64" height="64" fill="#101214"/>
+<rect x="576" y="384" width="64" height="64" fill="#101214"/>
+<rect x="640" y="384" width="64" height="64" fill="#101214"/>
+<rect x="256" y="512" width="64" height="64" fill="#101214"/>
+<rect x="320" y="512" width="64" height="64" fill="#101214"/>
+<rect x="384" y="512" width="64" height="64" fill="#101214"/>
+<rect x="192" y="576" width="64" height="64" fill="#101214"/>
+<rect x="256" y="576" width="64" height="64" fill="#101214"/>
+<rect x="320" y="576" width="64" height="64" fill="#101214"/>
+<rect x="384" y="576" width="64" height="64" fill="#101214"/>
+<rect x="448" y="576" width="64" height="64" fill="#101214"/>
+<rect x="256" y="640" width="64" height="64" fill="#101214"/>
+<rect x="320" y="640" width="64" height="64" fill="#101214"/>
+<rect x="384" y="640" width="64" height="64" fill="#101214"/>
+<rect x="448" y="640" width="64" height="64" fill="#101214"/>
+<rect x="512" y="640" width="64" height="64" fill="#101214"/>
+<rect x="320" y="704" width="64" height="64" fill="#101214"/>
+<rect x="384" y="704" width="64" height="64" fill="#101214"/>
+<rect x="448" y="704" width="64" height="64" fill="#101214"/>
+<rect x="0" y="768" width="64" height="64" fill="#101214"/>
+<rect x="64" y="768" width="64" height="64" fill="#101214"/>
+<rect x="640" y="768" width="64" height="64" fill="#101214"/>
+<rect x="704" y="768" width="64" height="64" fill="#101214"/>
+<rect x="0" y="832" width="64" height="64" fill="#101214"/>
+<rect x="64" y="832" width="64" height="64" fill="#101214"/>
+<rect x="128" y="832" width="64" height="64" fill="#101214"/>
+<rect x="576" y="832" width="64" height="64" fill="#101214"/>
+<rect x="640" y="832" width="64" height="64" fill="#101214"/>
+<rect x="704" y="832" width="64" height="64" fill="#101214"/>
+<rect x="0" y="896" width="64" height="64" fill="#101214"/>
+<rect x="64" y="896" width="64" height="64" fill="#101214"/>
+<rect x="640" y="896" width="64" height="64" fill="#101214"/>
+<rect x="704" y="896" width="64" height="64" fill="#101214"/>
+<rect x="64" y="64" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="128" y="64" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="0" y="128" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="192" y="128" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="0" y="248" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="256" y="192" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="256" y="248" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="576" y="192" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="640" y="192" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="64" y="312" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="128" y="312" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="192" y="312" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="512" y="256" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="704" y="256" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="512" y="376" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="704" y="376" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="576" y="440" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="640" y="440" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="256" y="512" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="320" y="512" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="384" y="512" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="192" y="576" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="192" y="632" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="448" y="576" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="256" y="696" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="512" y="640" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="512" y="696" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="320" y="760" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="384" y="760" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="448" y="760" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="0" y="768" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="64" y="768" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="640" y="768" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="704" y="768" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="128" y="832" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="128" y="888" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="576" y="832" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="576" y="888" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="0" y="952" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="64" y="952" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="640" y="952" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="704" y="952" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="576" y="64" width="64" height="64" fill="url(#deepslate_iron_ore)"/>
+<rect x="640" y="64" width="64" height="64" fill="url(#deepslate_iron_ore)"/>
+<rect x="64" y="384" width="64" height="64" fill="url(#deepslate_iron_ore)"/>
+<rect x="128" y="384" width="64" height="64" fill="url(#deepslate_iron_ore)"/>
+<rect x="128" y="448" width="64" height="64" fill="url(#deepslate_iron_ore)"/>
+<rect x="192" y="448" width="64" height="64" fill="url(#deepslate_iron_ore)"/>
+<rect x="640" y="512" width="64" height="64" fill="url(#deepslate_gold_ore)"/>
+<rect x="704" y="512" width="64" height="64" fill="url(#deepslate_gold_ore)"/>
+<rect x="640" y="576" width="64" height="64" fill="url(#deepslate_gold_ore)"/>
+<rect x="256" y="832" width="64" height="64" fill="url(#deepslate_gold_ore)"/>
+<rect x="448" y="448" width="64" height="64" fill="url(#deepslate_redstone_ore)"/>
+<rect x="0" y="640" width="64" height="64" fill="url(#deepslate_redstone_ore)"/>
+<rect x="64" y="640" width="64" height="64" fill="url(#deepslate_redstone_ore)"/>
+<rect x="64" y="704" width="64" height="64" fill="url(#deepslate_redstone_ore)"/>
+<rect x="128" y="704" width="64" height="64" fill="url(#deepslate_redstone_ore)"/>
+<rect x="640" y="640" width="64" height="64" fill="url(#deepslate_diamond_ore)"/>
+<rect x="256" y="896" width="64" height="64" fill="url(#deepslate_diamond_ore)"/>
+<rect x="320" y="896" width="64" height="64" fill="url(#deepslate_diamond_ore)"/>
+<rect x="320" y="960" width="64" height="64" fill="url(#deepslate_diamond_ore)"/>
+<rect x="384" y="960" width="64" height="64" fill="url(#deepslate_diamond_ore)"/>
+<rect x="576" y="448" width="64" height="64" fill="url(#deepslate_lapis_ore)"/>
+<rect x="640" y="448" width="64" height="64" fill="url(#deepslate_lapis_ore)"/>
+<rect x="576" y="512" width="64" height="64" fill="url(#deepslate_lapis_ore)"/>
+<rect x="448" y="768" width="64" height="64" fill="url(#deepslate_lapis_ore)"/>
+<rect x="512" y="768" width="64" height="64" fill="url(#deepslate_lapis_ore)"/>
+<rect x="704" y="256" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="256" y="192" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="320" y="320" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="0" y="832" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="384" y="128" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="64" y="256" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="320" y="960" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="576" y="896" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="384" y="384" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="192" y="640" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="640" y="640" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="320" y="832" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="64" y="960" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="384" y="128" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="192" y="448" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="0" y="384" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="64" y="128" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="192" y="512" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="704" y="576" width="64" height="64" fill="#000000" opacity="0.08"/>
+<rect x="256" y="512" width="64" height="64" fill="#000000" opacity="0.08"/>
+</svg>

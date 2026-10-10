@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" style="image-rendering:pixelated" shape-rendering="crispEdges">
+<title>Nether rock, soul sand and quartz</title>
+<defs>
+<pattern id="netherrack" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#411616" d="M40 0h4v4h-4zM20 4h4v4h-4zM44 4h4v4h-4zM20 8h4v4h-4zM16 24h4v4h-4zM12 28h4v4h-4zM24 36h4v4h-4zM24 40h4v4h-4zM52 40h8v4h-8zM28 44h4v4h-4zM48 44h4v4h-4zM36 56h4v4h-4zM36 60h4v4h-4z"/>
+<path fill="#501b1b" d="M12 0h4v4h-4zM20 0h4v4h-4zM16 4h4v4h-4zM24 4h4v4h-4zM36 4h4v4h-4zM56 4h4v4h-4zM28 8h4v4h-4zM40 8h4v4h-4zM52 8h4v4h-4zM20 12h4v4h-4zM56 12h4v4h-4zM16 16h4v4h-4zM48 16h4v4h-4zM44 20h4v4h-4zM12 24h4v4h-4zM40 24h4v4h-4zM16 28h4v4h-4zM48 28h4v4h-4zM4 32h4v4h-4zM20 32h8v4h-8zM0 36h4v4h-4zM28 36h4v4h-4zM60 36h4v4h-4zM28 40h4v4h-4zM48 40h4v4h-4zM60 40h4v4h-4zM4 44h8v4h-8zM20 44h4v4h-4zM32 44h4v4h-4zM52 44h4v4h-4zM60 44h4v4h-4zM16 48h4v4h-4zM32 48h8v4h-8zM32 52h8v4h-8zM0 56h4v4h-4zM24 56h4v4h-4zM32 56h4v4h-4zM0 60h8v4h-8zM20 60h4v4h-4zM40 60h4v4h-4z"/>
+<path fill="#511515" d="M0 0h4v4h-4zM8 0h4v4h-4zM40 4h4v4h-4zM60 4h4v4h-4zM24 8h4v4h-4zM44 8h4v4h-4zM48 12h4v4h-4zM0 20h4v4h-4zM16 20h4v4h-4zM0 24h4v4h-4zM44 24h4v4h-4zM8 28h4v4h-4zM32 28h8v4h-8zM28 32h4v4h-4zM52 32h4v4h-4zM52 36h8v4h-8zM24 44h4v4h-4zM44 44h4v4h-4zM0 48h4v4h-4zM28 48h4v4h-4zM40 48h4v4h-4zM60 48h4v4h-4zM28 52h4v4h-4zM60 52h4v4h-4z"/>
+<path fill="#572121" d="M4 0h4v4h-4zM60 0h4v4h-4zM0 4h4v4h-4zM12 4h4v4h-4zM16 8h4v4h-4zM36 8h4v4h-4zM24 12h4v4h-4zM44 12h4v4h-4zM60 16h4v4h-4zM12 20h4v4h-4zM4 28h4v4h-4zM0 40h4v4h-4zM56 44h4v4h-4zM0 52h4v4h-4zM40 52h4v4h-4zM28 56h4v4h-4zM32 60h4v4h-4z"/>
+<path fill="#652828" d="M16 0h4v4h-4zM32 0h8v4h-8zM44 0h8v4h-8zM56 0h4v4h-4zM4 4h8v4h-8zM28 4h4v4h-4zM48 4h8v4h-8zM4 8h4v4h-4zM12 8h4v4h-4zM32 8h4v4h-4zM48 8h4v4h-4zM56 8h4v4h-4zM8 12h4v4h-4zM16 12h4v4h-4zM32 12h4v4h-4zM52 12h4v4h-4zM60 12h4v4h-4zM12 16h4v4h-4zM20 16h4v4h-4zM36 16h4v4h-4zM56 16h4v4h-4zM8 20h4v4h-4zM40 20h4v4h-4zM48 20h8v4h-8zM60 20h4v4h-4zM4 24h4v4h-4zM24 24h4v4h-4zM36 24h4v4h-4zM48 24h4v4h-4zM20 28h4v4h-4zM28 28h4v4h-4zM44 28h4v4h-4zM52 28h4v4h-4zM0 32h4v4h-4zM8 32h4v4h-4zM16 32h4v4h-4zM32 32h8v4h-8zM48 32h4v4h-4zM56 32h4v4h-4zM4 36h4v4h-4zM20 36h4v4h-4zM32 36h4v4h-4zM40 36h4v4h-4zM8 40h4v4h-4zM20 40h4v4h-4zM0 44h4v4h-4zM16 44h4v4h-4zM40 44h4v4h-4zM4 48h4v4h-4zM12 48h4v4h-4zM24 48h4v4h-4zM48 48h4v4h-4zM56 48h4v4h-4zM8 52h4v4h-4zM44 52h4v4h-4zM4 56h4v4h-4zM20 56h4v4h-4zM40 56h4v4h-4zM48 56h4v4h-4zM56 56h8v4h-8zM8 60h4v4h-4zM24 60h4v4h-4zM44 60h4v4h-4zM56 60h8v4h-8z"/>
+<path fill="#723232" d="M24 0h8v4h-8zM52 0h4v4h-4zM32 4h4v4h-4zM0 8h4v4h-4zM8 8h4v4h-4zM60 8h4v4h-4zM4 12h4v4h-4zM12 12h4v4h-4zM28 12h4v4h-4zM36 12h8v4h-8zM0 16h4v4h-4zM8 16h4v4h-4zM24 16h4v4h-4zM40 16h8v4h-8zM52 16h4v4h-4zM4 20h4v4h-4zM20 20h4v4h-4zM32 20h8v4h-8zM56 20h4v4h-4zM8 24h4v4h-4zM20 24h4v4h-4zM28 24h8v4h-8zM52 24h4v4h-4zM60 24h4v4h-4zM0 28h4v4h-4zM24 28h4v4h-4zM40 28h4v4h-4zM12 32h4v4h-4zM40 32h8v4h-8zM60 32h4v4h-4zM8 36h4v4h-4zM16 36h4v4h-4zM36 36h4v4h-4zM44 36h8v4h-8zM4 40h4v4h-4zM12 40h8v4h-8zM32 40h4v4h-4zM40 40h8v4h-8zM12 44h4v4h-4zM36 44h4v4h-4zM8 48h4v4h-4zM20 48h4v4h-4zM44 48h4v4h-4zM52 48h4v4h-4zM4 52h4v4h-4zM12 52h8v4h-8zM24 52h4v4h-4zM48 52h4v4h-4zM56 52h4v4h-4zM8 56h8v4h-8zM44 56h4v4h-4zM52 56h4v4h-4zM12 60h8v4h-8zM28 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#854242" d="M0 12h4v4h-4zM4 16h4v4h-4zM28 16h8v4h-8zM24 20h8v4h-8zM56 24h4v4h-4zM56 28h8v4h-8zM12 36h4v4h-4zM36 40h4v4h-4zM20 52h4v4h-4zM52 52h4v4h-4zM16 56h4v4h-4z"/>
+</pattern>
+<pattern id="soul_sand" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#352922" d="M12 0h8v4h-8zM32 0h4v4h-4zM44 0h8v4h-8zM40 4h8v4h-8zM60 4h4v4h-4zM0 8h4v4h-4zM44 8h4v4h-4zM60 12h4v4h-4zM0 16h4v4h-4zM24 20h4v4h-4zM4 24h8v4h-8zM8 28h8v4h-8zM60 28h4v4h-4zM60 32h4v4h-4zM8 36h4v4h-4zM28 36h4v4h-4zM48 36h4v4h-4zM4 40h4v4h-4zM32 40h4v4h-4zM0 44h4v4h-4zM20 44h4v4h-4zM44 44h4v4h-4zM56 44h4v4h-4zM0 48h4v4h-4zM16 48h4v4h-4zM52 48h4v4h-4zM60 48h4v4h-4zM52 52h4v4h-4zM4 56h4v4h-4zM48 56h4v4h-4zM8 60h4v4h-4zM32 60h4v4h-4z"/>
+<path fill="#423127" d="M4 0h4v4h-4zM40 0h4v4h-4zM12 4h4v4h-4zM32 4h8v4h-8zM16 8h4v4h-4zM28 8h4v4h-4zM40 8h4v4h-4zM48 8h4v4h-4zM60 8h4v4h-4zM0 12h4v4h-4zM44 12h4v4h-4zM24 16h4v4h-4zM40 16h4v4h-4zM52 16h8v4h-8zM20 20h4v4h-4zM60 20h4v4h-4zM20 24h4v4h-4zM44 24h4v4h-4zM52 28h4v4h-4zM24 32h8v4h-8zM32 36h4v4h-4zM48 40h4v4h-4zM16 44h4v4h-4zM36 44h4v4h-4zM36 48h4v4h-4zM8 52h4v4h-4zM32 52h12v4h-12zM20 56h4v4h-4zM28 56h8v4h-8zM28 60h4v4h-4zM44 60h4v4h-4zM56 60h4v4h-4z"/>
+<path fill="#49372c" d="M28 0h4v4h-4zM36 0h4v4h-4zM48 4h4v4h-4zM8 8h4v4h-4zM36 8h4v4h-4zM52 8h4v4h-4zM8 12h4v4h-4zM24 12h4v4h-4zM36 12h8v4h-8zM48 12h8v4h-8zM8 16h4v4h-4zM20 16h4v4h-4zM36 16h4v4h-4zM44 16h8v4h-8zM4 20h8v4h-8zM36 20h8v4h-8zM56 20h4v4h-4zM0 24h4v4h-4zM12 24h4v4h-4zM32 24h8v4h-8zM60 24h4v4h-4zM0 28h8v4h-8zM16 28h4v4h-4zM28 28h8v4h-8zM4 32h4v4h-4zM12 32h12v4h-12zM32 32h4v4h-4zM12 36h4v4h-4zM24 36h4v4h-4zM56 36h4v4h-4zM0 40h4v4h-4zM8 40h4v4h-4zM20 40h4v4h-4zM36 40h4v4h-4zM44 40h4v4h-4zM56 40h4v4h-4zM4 44h4v4h-4zM32 44h4v4h-4zM52 44h4v4h-4zM60 44h4v4h-4zM32 48h4v4h-4zM40 48h4v4h-4zM48 48h4v4h-4zM56 48h4v4h-4zM28 52h4v4h-4zM44 52h8v4h-8zM56 52h4v4h-4zM36 56h4v4h-4zM52 56h4v4h-4zM4 60h4v4h-4zM12 60h4v4h-4zM24 60h4v4h-4zM40 60h4v4h-4zM48 60h4v4h-4z"/>
+<path fill="#5b4538" d="M0 0h4v4h-4zM8 0h4v4h-4zM20 0h8v4h-8zM56 0h4v4h-4zM4 4h8v4h-8zM16 4h4v4h-4zM28 4h4v4h-4zM52 4h4v4h-4zM32 8h4v4h-4zM12 12h4v4h-4zM20 12h4v4h-4zM56 12h4v4h-4zM4 16h4v4h-4zM60 16h4v4h-4zM0 20h4v4h-4zM12 20h4v4h-4zM32 20h4v4h-4zM48 20h8v4h-8zM16 24h4v4h-4zM28 24h4v4h-4zM40 24h4v4h-4zM52 24h8v4h-8zM20 28h8v4h-8zM36 28h4v4h-4zM56 28h4v4h-4zM0 32h4v4h-4zM8 32h4v4h-4zM36 32h8v4h-8zM56 32h4v4h-4zM4 36h4v4h-4zM16 36h8v4h-8zM36 36h4v4h-4zM60 36h4v4h-4zM12 40h4v4h-4zM24 40h8v4h-8zM52 40h4v4h-4zM60 40h4v4h-4zM8 44h4v4h-4zM28 44h4v4h-4zM40 44h4v4h-4zM48 44h4v4h-4zM4 48h4v4h-4zM28 48h4v4h-4zM44 48h4v4h-4zM4 52h4v4h-4zM60 52h4v4h-4zM8 56h4v4h-4zM24 56h4v4h-4zM40 56h8v4h-8zM56 56h4v4h-4zM20 60h4v4h-4zM36 60h4v4h-4z"/>
+<path fill="#6a5244" d="M52 0h4v4h-4zM60 0h4v4h-4zM0 4h4v4h-4zM56 4h4v4h-4zM4 8h4v4h-4zM12 8h4v4h-4zM20 8h4v4h-4zM56 8h4v4h-4zM4 12h4v4h-4zM16 12h4v4h-4zM32 12h4v4h-4zM12 16h8v4h-8zM32 16h4v4h-4zM16 20h4v4h-4zM28 20h4v4h-4zM44 20h4v4h-4zM24 24h4v4h-4zM40 28h4v4h-4zM44 32h8v4h-8zM0 36h4v4h-4zM44 36h4v4h-4zM52 36h4v4h-4zM16 40h4v4h-4zM40 40h4v4h-4zM12 44h4v4h-4zM24 44h4v4h-4zM12 48h4v4h-4zM20 48h8v4h-8zM0 52h4v4h-4zM12 52h8v4h-8zM24 52h4v4h-4zM12 56h4v4h-4zM0 60h4v4h-4zM16 60h4v4h-4zM52 60h4v4h-4z"/>
+<path fill="#796152" d="M20 4h8v4h-8zM24 8h4v4h-4zM28 12h4v4h-4zM28 16h4v4h-4zM48 24h4v4h-4zM44 28h8v4h-8zM52 32h4v4h-4zM40 36h4v4h-4zM8 48h4v4h-4zM20 52h4v4h-4zM0 56h4v4h-4zM16 56h4v4h-4zM60 56h4v4h-4zM60 60h4v4h-4z"/>
+</pattern>
+<pattern id="nether_quartz_ore" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#411616" d="M40 0h4v4h-4zM20 4h4v4h-4zM44 4h4v4h-4zM20 8h4v4h-4zM12 28h4v4h-4zM24 40h4v4h-4zM56 40h4v4h-4zM28 44h4v4h-4zM36 56h4v4h-4zM36 60h4v4h-4z"/>
+<path fill="#501b1b" d="M12 0h4v4h-4zM20 0h4v4h-4zM16 4h4v4h-4zM24 4h4v4h-4zM56 4h4v4h-4zM40 8h4v4h-4zM52 8h4v4h-4zM56 12h4v4h-4zM48 16h4v4h-4zM16 28h4v4h-4zM48 28h4v4h-4zM4 32h4v4h-4zM0 36h4v4h-4zM28 36h4v4h-4zM60 36h4v4h-4zM28 40h4v4h-4zM60 40h4v4h-4zM4 44h4v4h-4zM20 44h4v4h-4zM52 44h4v4h-4zM60 44h4v4h-4zM16 48h4v4h-4zM36 52h4v4h-4zM0 56h4v4h-4zM24 56h4v4h-4zM0 60h8v4h-8zM20 60h4v4h-4zM40 60h4v4h-4z"/>
+<path fill="#511515" d="M0 0h4v4h-4zM8 0h4v4h-4zM40 4h4v4h-4zM60 4h4v4h-4zM44 8h4v4h-4zM48 12h4v4h-4zM0 20h4v4h-4zM0 24h4v4h-4zM44 24h4v4h-4zM8 28h4v4h-4zM28 32h4v4h-4zM24 44h4v4h-4zM44 44h4v4h-4zM0 48h4v4h-4zM40 48h4v4h-4zM60 48h4v4h-4zM60 52h4v4h-4z"/>
+<path fill="#572121" d="M4 0h4v4h-4zM60 0h4v4h-4zM0 4h4v4h-4zM12 4h4v4h-4zM16 8h4v4h-4zM44 12h4v4h-4zM60 16h4v4h-4zM4 28h4v4h-4zM0 40h4v4h-4zM56 44h4v4h-4zM0 52h4v4h-4zM40 52h4v4h-4zM28 56h4v4h-4zM32 60h4v4h-4z"/>
+<path fill="#652828" d="M16 0h4v4h-4zM32 0h8v4h-8zM44 0h8v4h-8zM56 0h4v4h-4zM4 4h8v4h-8zM28 4h4v4h-4zM48 4h8v4h-8zM4 8h4v4h-4zM12 8h4v4h-4zM48 8h4v4h-4zM56 8h4v4h-4zM8 12h4v4h-4zM52 12h4v4h-4zM60 12h4v4h-4zM36 16h4v4h-4zM56 16h4v4h-4zM48 20h8v4h-8zM60 20h4v4h-4zM4 24h4v4h-4zM48 24h4v4h-4zM44 28h4v4h-4zM0 32h4v4h-4zM8 32h4v4h-4zM32 32h8v4h-8zM4 36h4v4h-4zM32 36h4v4h-4zM40 36h4v4h-4zM8 40h4v4h-4zM0 44h4v4h-4zM4 48h4v4h-4zM12 48h4v4h-4zM24 48h4v4h-4zM48 48h4v4h-4zM56 48h4v4h-4zM8 52h4v4h-4zM4 56h4v4h-4zM20 56h4v4h-4zM40 56h4v4h-4zM48 56h4v4h-4zM56 56h8v4h-8zM8 60h4v4h-4zM24 60h4v4h-4zM44 60h4v4h-4zM56 60h8v4h-8z"/>
+<path fill="#6f5843" d="M20 20h4v4h-4zM44 20h4v4h-4zM16 24h4v4h-4zM24 24h4v4h-4zM40 24h4v4h-4zM32 28h4v4h-4zM56 36h4v4h-4zM20 40h4v4h-4zM48 40h4v4h-4zM16 44h4v4h-4z"/>
+<path fill="#723232" d="M24 0h8v4h-8zM52 0h4v4h-4zM32 4h8v4h-8zM0 8h4v4h-4zM8 8h4v4h-4zM24 8h4v4h-4zM60 8h4v4h-4zM4 12h4v4h-4zM12 12h8v4h-8zM36 12h8v4h-8zM0 16h4v4h-4zM8 16h8v4h-8zM28 16h4v4h-4zM40 16h8v4h-8zM52 16h4v4h-4zM4 20h8v4h-8zM24 20h4v4h-4zM56 20h4v4h-4zM8 24h8v4h-8zM20 24h4v4h-4zM52 24h4v4h-4zM60 24h4v4h-4zM0 28h4v4h-4zM36 28h8v4h-8zM12 32h4v4h-4zM40 32h8v4h-8zM60 32h4v4h-4zM8 36h4v4h-4zM24 36h4v4h-4zM36 36h4v4h-4zM44 36h4v4h-4zM4 40h4v4h-4zM32 40h4v4h-4zM40 40h8v4h-8zM52 40h4v4h-4zM8 44h4v4h-4zM40 44h4v4h-4zM48 44h4v4h-4zM8 48h4v4h-4zM20 48h4v4h-4zM44 48h4v4h-4zM4 52h4v4h-4zM12 52h8v4h-8zM24 52h4v4h-4zM56 52h4v4h-4zM8 56h8v4h-8zM44 56h4v4h-4zM52 56h4v4h-4zM12 60h8v4h-8zM28 60h4v4h-4zM48 60h8v4h-8z"/>
+<path fill="#854242" d="M0 12h4v4h-4zM4 16h4v4h-4zM32 16h4v4h-4zM28 20h4v4h-4zM60 28h4v4h-4zM12 36h4v4h-4zM20 52h4v4h-4zM52 52h4v4h-4zM16 56h4v4h-4z"/>
+<path fill="#ac716a" d="M28 8h4v4h-4zM32 12h4v4h-4zM24 16h4v4h-4zM12 20h4v4h-4zM32 20h4v4h-4zM40 20h4v4h-4zM56 24h4v4h-4zM20 28h4v4h-4zM28 28h4v4h-4zM24 32h4v4h-4zM56 32h4v4h-4zM36 40h4v4h-4zM12 44h4v4h-4zM32 44h4v4h-4zM28 52h4v4h-4zM44 52h4v4h-4zM32 56h4v4h-4z"/>
+<path fill="#b6a48e" d="M36 8h4v4h-4zM16 20h4v4h-4zM36 24h4v4h-4zM24 28h4v4h-4zM56 28h4v4h-4zM16 32h4v4h-4zM52 36h4v4h-4zM16 40h4v4h-4zM28 48h4v4h-4zM36 48h4v4h-4zM52 48h4v4h-4zM32 52h4v4h-4zM48 52h4v4h-4z"/>
+<path fill="#d4caba" d="M32 8h4v4h-4zM24 12h8v4h-8zM20 16h4v4h-4zM36 20h4v4h-4zM32 24h4v4h-4zM48 32h4v4h-4zM20 36h4v4h-4zM12 40h4v4h-4zM32 48h4v4h-4z"/>
+<path fill="#eae5de" d="M20 12h4v4h-4zM16 16h4v4h-4zM28 24h4v4h-4zM52 28h4v4h-4zM20 32h4v4h-4zM52 32h4v4h-4zM16 36h4v4h-4zM48 36h4v4h-4zM36 44h4v4h-4z"/>
+</pattern>
+</defs>
+<rect x="0" y="0" width="768" height="1024" fill="url(#netherrack)"/>
+<rect x="0" y="0" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="0" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="0" y="64" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="64" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="128" y="64" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="0" y="128" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="128" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="128" y="128" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="192" y="128" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="192" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="128" y="192" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="576" y="384" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="640" y="384" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="704" y="384" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="512" y="448" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="576" y="448" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="640" y="448" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="704" y="448" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="576" y="512" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="640" y="512" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="704" y="512" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="640" y="576" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="704" y="576" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="768" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="128" y="768" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="0" y="832" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="832" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="128" y="832" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="192" y="832" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="0" y="896" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="896" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="128" y="896" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="192" y="896" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="256" y="896" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="64" y="960" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="128" y="960" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="192" y="960" width="64" height="64" fill="url(#soul_sand)"/>
+<rect x="512" y="192" width="64" height="64" fill="#200b10"/>
+<rect x="576" y="192" width="64" height="64" fill="#200b10"/>
+<rect x="448" y="256" width="64" height="64" fill="#200b10"/>
+<rect x="512" y="256" width="64" height="64" fill="#200b10"/>
+<rect x="576" y="256" width="64" height="64" fill="#200b10"/>
+<rect x="640" y="256" width="64" height="64" fill="#200b10"/>
+<rect x="512" y="320" width="64" height="64" fill="#200b10"/>
+<rect x="576" y="320" width="64" height="64" fill="#200b10"/>
+<rect x="640" y="320" width="64" height="64" fill="#200b10"/>
+<rect x="704" y="320" width="64" height="64" fill="#200b10"/>
+<rect x="0" y="448" width="64" height="64" fill="#200b10"/>
+<rect x="64" y="448" width="64" height="64" fill="#200b10"/>
+<rect x="0" y="512" width="64" height="64" fill="#200b10"/>
+<rect x="64" y="512" width="64" height="64" fill="#200b10"/>
+<rect x="128" y="512" width="64" height="64" fill="#200b10"/>
+<rect x="0" y="576" width="64" height="64" fill="#200b10"/>
+<rect x="64" y="576" width="64" height="64" fill="#200b10"/>
+<rect x="320" y="640" width="64" height="64" fill="#200b10"/>
+<rect x="384" y="640" width="64" height="64" fill="#200b10"/>
+<rect x="256" y="704" width="64" height="64" fill="#200b10"/>
+<rect x="320" y="704" width="64" height="64" fill="#200b10"/>
+<rect x="384" y="704" width="64" height="64" fill="#200b10"/>
+<rect x="448" y="704" width="64" height="64" fill="#200b10"/>
+<rect x="320" y="768" width="64" height="64" fill="#200b10"/>
+<rect x="384" y="768" width="64" height="64" fill="#200b10"/>
+<rect x="512" y="192" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="576" y="192" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="448" y="256" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="448" y="312" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="640" y="256" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="512" y="376" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="576" y="376" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="640" y="376" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="704" y="320" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="704" y="376" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="0" y="448" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="64" y="448" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="128" y="512" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="128" y="568" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="0" y="632" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="64" y="632" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="320" y="640" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="384" y="640" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="256" y="704" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="256" y="760" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="448" y="704" width="64" height="8" fill="#000000" opacity="0.38"/>
+<rect x="448" y="760" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="320" y="824" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="384" y="824" width="64" height="8" fill="#000000" opacity="0.24"/>
+<rect x="384" y="64" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="448" y="64" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="448" y="128" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="512" y="128" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="64" y="256" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="128" y="256" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="128" y="320" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="384" y="576" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="448" y="576" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="576" y="768" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="640" y="768" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="640" y="832" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="704" y="832" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="448" y="960" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="512" y="960" width="64" height="64" fill="url(#nether_quartz_ore)"/>
+<rect x="448" y="64" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="192" y="576" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="640" y="384" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="128" y="704" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="256" y="896" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="0" y="256" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="0" y="384" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="576" y="896" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="0" y="320" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="576" y="640" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="64" y="512" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="320" y="256" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="512" y="192" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="384" y="64" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="320" y="640" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="192" y="256" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="256" y="320" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="512" y="576" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="704" y="576" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="448" y="320" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="576" y="384" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="448" y="832" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="512" y="128" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="128" y="384" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="576" y="0" width="64" height="64" fill="#000000" opacity="0.13"/>
+<rect x="0" y="0" width="768" height="1024" fill="#360716" opacity="0.11"/>
+</svg>

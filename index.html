@@ -23,8 +23,10 @@
   <meta name="twitter:image:alt" content="Seed Atlas — 독특한 바이옴·지형 시드 400선, 설산과 벚꽃 숲·절벽·섬 마을 풍경">
   <title>Minecraft Java Seed Atlas | 특이한 바이옴·지형 시드 400선</title>
   <link rel="canonical" href="https://jtech-co.github.io/Minecraft-Seed-Atlas/">
-  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
-  <link rel="stylesheet" href="css/styles.css?v=43dc5f9de0fa">
+  <link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48 64x64" href="assets/favicon.ico?v=20261010">
+  <link rel="icon" type="image/svg+xml" sizes="any" href="assets/favicon.svg?v=20261010">
+  <link rel="preload" as="image" href="images/minecraft/hero-landscape.jpg" fetchpriority="high">
+  <link rel="stylesheet" href="css/styles.css?v=1690e2e82d7a">
   <script src="js/seeds.js?v=45f9a144052a" defer></script>
   <script src="js/app.js?v=dc2aa58fe764" defer></script>
 </head>
@@ -34,13 +36,7 @@
   <header class="site-header">
     <div class="site-header__inner shell">
       <a class="brand" href="#top" aria-label="Minecraft Java Seed Atlas 홈">
-        <span class="brand-mark" aria-hidden="true">
-          <span></span><span></span><span></span><span></span>
-        </span>
-        <span class="brand-copy">
-          <strong>SEED ATLAS</strong>
-          <small>JAVA EDITION</small>
-        </span>
+        <img class="brand-logo" src="assets/brand-logo.svg" width="210" height="48" alt="Seed Atlas — Java Edition">
       </a>
 
       <nav class="top-nav" aria-label="주요 메뉴">
@@ -56,11 +52,6 @@
 
   <main id="top">
     <section class="hero" aria-labelledby="page-title">
-      <div class="hero__sky" aria-hidden="true">
-        <span class="cloud cloud--one"></span>
-        <span class="cloud cloud--two"></span>
-      </div>
-      <div class="hero__forest" aria-hidden="true"></div>
       <div class="shell hero__content">
         <p class="eyebrow"><span>JAVA</span> 26.3 · 26.2 · 26.1 · 1.21</p>
         <h1 id="page-title"><span>독특한 바이옴·지형</span><em>시드 400선</em></h1>
@@ -93,8 +84,17 @@
           </div>
         </dl>
       </div>
-      <div class="hero__ground" aria-hidden="true"></div>
     </section>
+
+    <div class="world-depth">
+      <div class="world-strata" aria-hidden="true">
+        <div class="world-layer world-layer--surface"><span class="world-layer__label"><small>OVERWORLD</small>오버월드 지표면</span></div>
+        <div class="world-layer world-layer--caves"><span class="world-layer__label"><small>DEEP UNDERGROUND</small>오버월드 동굴</span></div>
+        <div class="world-layer world-layer--bedrock"><span class="world-layer__label"><small>BEDROCK</small>기반암</span></div>
+        <div class="world-layer world-layer--nether"><span class="world-layer__label"><small>THE NETHER</small>네더월드</span></div>
+        <div class="world-layer world-layer--lava"><span class="world-layer__label"><small>LAVA SEA</small>용암</span></div>
+        <div class="world-layer world-layer--end"><span class="world-layer__label"><small>THE END</small>엔더월드</span></div>
+      </div>
 
     <section class="explorer shell" aria-labelledby="explorer-title">
       <div class="section-heading">
@@ -259,6 +259,7 @@
         </aside>
       </div>
     </section>
+    </div>
   </main>
 
   <footer class="site-footer">

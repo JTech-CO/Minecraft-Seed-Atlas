@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" style="image-rendering:pixelated" shape-rendering="crispEdges">
+<title>Still lava and obsidian islands</title>
+<defs>
+<pattern id="lava_still" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#c73405" d="M28 40h4v4h-4z"/>
+<path fill="#c83605" d="M36 36h4v4h-4zM28 44h4v4h-4z"/>
+<path fill="#c93806" d="M32 36h4v4h-4z"/>
+<path fill="#c93906" d="M48 28h4v4h-4zM24 56h4v4h-4z"/>
+<path fill="#ca3b06" d="M32 0h4v4h-4zM24 40h4v4h-4zM48 48h8v4h-8z"/>
+<path fill="#cb3d07" d="M52 32h4v4h-4zM32 40h4v4h-4zM52 44h4v4h-4zM28 56h4v4h-4z"/>
+<path fill="#cb3f07" d="M20 8h4v4h-4zM24 52h4v4h-4z"/>
+<path fill="#cc4008" d="M40 32h4v4h-4z"/>
+<path fill="#cc4108" d="M40 12h4v4h-4zM36 32h4v4h-4zM36 40h4v4h-4zM28 48h4v4h-4z"/>
+<path fill="#cd4208" d="M20 12h4v4h-4zM32 24h4v4h-4zM32 60h4v4h-4z"/>
+<path fill="#cd4409" d="M32 28h4v4h-4z"/>
+<path fill="#ce4409" d="M28 52h4v4h-4zM52 52h4v4h-4zM28 60h4v4h-4z"/>
+<path fill="#ce4609" d="M36 0h4v4h-4zM32 32h4v4h-4zM32 44h4v4h-4z"/>
+<path fill="#cf480a" d="M16 36h4v4h-4zM40 44h4v4h-4z"/>
+<path fill="#cf4a0a" d="M16 12h4v4h-4z"/>
+<path fill="#d04a0a" d="M24 8h4v4h-4zM36 12h4v4h-4zM48 24h4v4h-4zM56 32h4v4h-4zM28 36h4v4h-4zM20 40h4v4h-4zM56 40h4v4h-4zM56 44h4v4h-4zM20 56h4v4h-4zM32 56h4v4h-4zM36 60h4v4h-4z"/>
+<path fill="#d04a0b" d="M40 36h4v4h-4z"/>
+<path fill="#d14c0b" d="M36 28h4v4h-4z"/>
+<path fill="#d14d0b" d="M16 40h4v4h-4zM24 44h4v4h-4zM60 44h4v4h-4z"/>
+<path fill="#d14d0c" d="M32 8h4v4h-4z"/>
+<path fill="#d14e0c" d="M16 32h4v4h-4z"/>
+<path fill="#d14f0c" d="M12 12h4v4h-4zM44 12h4v4h-4zM12 16h8v4h-8zM44 16h4v4h-4zM52 36h8v4h-8zM52 40h4v4h-4zM36 44h4v4h-4zM8 48h4v4h-4zM32 48h4v4h-4zM48 52h4v4h-4z"/>
+<path fill="#d1500c" d="M16 8h4v4h-4z"/>
+<path fill="#d2510d" d="M40 0h4v4h-4zM44 8h4v4h-4zM4 16h4v4h-4zM48 20h4v4h-4zM44 28h4v4h-4zM52 28h8v4h-8zM48 32h4v4h-4zM0 44h4v4h-4zM36 56h4v4h-4z"/>
+<path fill="#d3520d" d="M20 36h4v4h-4z"/>
+<path fill="#d3520e" d="M28 4h4v4h-4z"/>
+<path fill="#d3530d" d="M4 20h4v4h-4zM12 20h4v4h-4zM12 32h4v4h-4zM44 32h4v4h-4zM44 48h4v4h-4zM56 48h4v4h-4zM44 52h4v4h-4z"/>
+<path fill="#d3540e" d="M16 20h4v4h-4z"/>
+<path fill="#d3550e" d="M20 16h4v4h-4z"/>
+<path fill="#d35510" d="M32 4h4v4h-4z"/>
+<path fill="#d4550e" d="M8 0h4v4h-4zM28 0h4v4h-4zM8 12h4v4h-4zM12 28h4v4h-4zM60 28h4v4h-4zM56 56h4v4h-4zM24 60h4v4h-4z"/>
+<path fill="#d5570f" d="M4 0h4v4h-4zM44 0h4v4h-4zM44 4h4v4h-4zM12 8h4v4h-4zM48 8h4v4h-4zM8 16h4v4h-4zM4 48h4v4h-4zM24 48h4v4h-4zM40 60h4v4h-4z"/>
+<path fill="#d55910" d="M4 24h4v4h-4zM4 28h8v4h-8zM12 48h4v4h-4zM8 52h4v4h-4zM56 60h4v4h-4z"/>
+<path fill="#d65b11" d="M28 8h4v4h-4z"/>
+<path fill="#d65c11" d="M8 20h4v4h-4zM60 32h4v4h-4zM4 44h4v4h-4zM48 44h4v4h-4zM32 52h4v4h-4zM56 52h4v4h-4zM40 56h4v4h-4z"/>
+<path fill="#d75d12" d="M24 12h4v4h-4zM36 20h4v4h-4z"/>
+<path fill="#d75e12" d="M12 4h4v4h-4zM48 4h4v4h-4zM40 40h4v4h-4zM12 44h4v4h-4zM0 48h4v4h-4zM36 48h4v4h-4zM16 56h4v4h-4z"/>
+<path fill="#d75f13" d="M32 20h4v4h-4z"/>
+<path fill="#d76013" d="M8 4h4v4h-4zM0 28h4v4h-4zM24 36h4v4h-4zM8 44h4v4h-4z"/>
+<path fill="#d86214" d="M20 52h4v4h-4z"/>
+<path fill="#d86315" d="M40 16h4v4h-4z"/>
+<path fill="#d96415" d="M8 8h4v4h-4zM48 12h4v4h-4zM0 24h4v4h-4zM12 24h4v4h-4zM36 52h4v4h-4zM44 56h4v4h-4zM52 56h4v4h-4zM60 60h4v4h-4z"/>
+<path fill="#d96516" d="M36 16h4v4h-4z"/>
+<path fill="#d96616" d="M48 0h4v4h-4zM56 0h4v4h-4zM48 16h4v4h-4zM12 36h4v4h-4zM16 52h4v4h-4z"/>
+<path fill="#da6717" d="M4 4h4v4h-4zM56 20h4v4h-4zM60 48h4v4h-4z"/>
+<path fill="#da6918" d="M0 20h4v4h-4zM52 20h4v4h-4zM8 24h4v4h-4zM12 52h4v4h-4zM20 60h4v4h-4z"/>
+<path fill="#db6b19" d="M4 12h4v4h-4zM60 24h4v4h-4zM8 32h4v4h-4zM44 44h4v4h-4z"/>
+<path fill="#db6c1a" d="M36 24h4v4h-4z"/>
+<path fill="#db6d1a" d="M20 4h4v4h-4zM52 24h4v4h-4zM40 28h4v4h-4z"/>
+<path fill="#db6d1b" d="M16 24h4v4h-4z"/>
+<path fill="#db6e1b" d="M28 32h4v4h-4z"/>
+<path fill="#dc6f1b" d="M12 0h4v4h-4zM52 0h4v4h-4z"/>
+<path fill="#dc6f1c" d="M32 12h4v4h-4z"/>
+<path fill="#dc711d" d="M0 0h4v4h-4zM36 8h4v4h-4zM0 16h4v4h-4zM20 20h4v4h-4zM0 32h4v4h-4zM12 40h4v4h-4z"/>
+<path fill="#dd731e" d="M28 24h4v4h-4z"/>
+<path fill="#dd751f" d="M28 12h4v4h-4zM60 40h4v4h-4zM8 60h4v4h-4z"/>
+<path fill="#de7821" d="M60 0h4v4h-4zM0 4h4v4h-4zM0 60h4v4h-4z"/>
+<path fill="#de7922" d="M36 4h4v4h-4z"/>
+<path fill="#de7a22" d="M24 4h4v4h-4zM44 20h4v4h-4zM60 20h4v4h-4zM40 48h4v4h-4z"/>
+<path fill="#df7c23" d="M24 0h4v4h-4zM56 24h4v4h-4zM60 36h4v4h-4zM8 56h4v4h-4zM4 60h4v4h-4z"/>
+<path fill="#df7c24" d="M16 28h4v4h-4z"/>
+<path fill="#df7d24" d="M32 16h4v4h-4z"/>
+<path fill="#df7e25" d="M40 8h4v4h-4z"/>
+<path fill="#e07e25" d="M0 8h4v4h-4zM0 12h4v4h-4zM44 60h4v4h-4z"/>
+<path fill="#e08026" d="M16 4h4v4h-4zM4 8h4v4h-4zM56 16h4v4h-4z"/>
+<path fill="#e08127" d="M24 16h4v4h-4z"/>
+<path fill="#e08228" d="M20 32h4v4h-4z"/>
+<path fill="#e18127" d="M28 28h4v4h-4z"/>
+<path fill="#e18328" d="M52 4h4v4h-4zM52 60h4v4h-4z"/>
+<path fill="#e18529" d="M44 24h4v4h-4zM40 52h4v4h-4z"/>
+<path fill="#e1872c" d="M40 20h4v4h-4z"/>
+<path fill="#e2872a" d="M60 4h4v4h-4zM16 44h4v4h-4zM4 52h4v4h-4zM16 60h4v4h-4z"/>
+<path fill="#e2872b" d="M28 20h4v4h-4z"/>
+<path fill="#e2882b" d="M40 4h4v4h-4z"/>
+<path fill="#e2892c" d="M0 36h4v4h-4zM48 56h4v4h-4z"/>
+<path fill="#e38c2e" d="M52 8h4v4h-4zM4 32h4v4h-4z"/>
+<path fill="#e38d2f" d="M24 32h4v4h-4z"/>
+<path fill="#e38e2f" d="M60 16h4v4h-4zM0 40h8v4h-8zM12 56h4v4h-4zM60 56h4v4h-4z"/>
+<path fill="#e48f30" d="M28 16h4v4h-4zM24 20h4v4h-4z"/>
+<path fill="#e59534" d="M56 4h4v4h-4zM4 36h4v4h-4z"/>
+<path fill="#e69735" d="M8 36h4v4h-4zM48 60h4v4h-4z"/>
+<path fill="#e69836" d="M20 24h4v4h-4z"/>
+<path fill="#e69937" d="M20 0h4v4h-4z"/>
+<path fill="#e79b38" d="M20 44h4v4h-4z"/>
+<path fill="#e79e3a" d="M12 60h4v4h-4z"/>
+<path fill="#e8a03b" d="M16 48h4v4h-4z"/>
+<path fill="#e8a23d" d="M16 0h4v4h-4zM52 16h4v4h-4z"/>
+<path fill="#e9a540" d="M40 24h4v4h-4z"/>
+<path fill="#eaa941" d="M60 52h4v4h-4z"/>
+<path fill="#eaaa43" d="M24 24h4v4h-4z"/>
+<path fill="#ebad44" d="M48 36h4v4h-4z"/>
+<path fill="#ebaf46" d="M8 40h4v4h-4zM48 40h4v4h-4zM0 52h4v4h-4z"/>
+<path fill="#ecb147" d="M60 12h4v4h-4z"/>
+<path fill="#ecb349" d="M52 12h4v4h-4z"/>
+<path fill="#edb54a" d="M60 8h4v4h-4zM44 36h4v4h-4z"/>
+<path fill="#edb64c" d="M24 28h4v4h-4z"/>
+<path fill="#edb74b" d="M56 12h4v4h-4zM20 48h4v4h-4z"/>
+<path fill="#eeba4e" d="M20 28h4v4h-4zM0 56h8v4h-8z"/>
+<path fill="#f2cd5b" d="M44 40h4v4h-4z"/>
+<path fill="#faeb72" d="M56 8h4v4h-4z"/>
+</pattern>
+<pattern id="obsidian" width="64" height="64" patternUnits="userSpaceOnUse" shape-rendering="crispEdges">
+<path fill="#000001" d="M4 0h16v4h-16zM32 0h4v4h-4zM4 4h4v4h-4zM16 4h4v4h-4zM28 4h4v4h-4zM0 8h8v4h-8zM20 8h4v4h-4zM44 8h4v4h-4zM56 8h4v4h-4zM0 12h4v4h-4zM40 12h8v4h-8zM60 12h4v4h-4zM0 16h4v4h-4zM20 16h24v4h-24zM56 16h4v4h-4zM12 20h8v4h-8zM56 20h8v4h-8zM36 24h4v4h-4zM44 24h4v4h-4zM52 24h8v4h-8zM4 28h4v4h-4zM24 28h4v4h-4zM32 28h20v4h-20zM60 28h4v4h-4zM0 32h8v4h-8zM40 32h8v4h-8zM8 36h8v4h-8zM40 36h4v4h-4zM12 40h4v4h-4zM40 40h8v4h-8zM56 40h4v4h-4zM0 44h4v4h-4zM20 44h4v4h-4zM16 48h4v4h-4zM24 52h4v4h-4zM52 52h4v4h-4zM0 56h4v4h-4zM44 56h4v4h-4zM52 56h8v4h-8zM8 60h4v4h-4zM16 60h4v4h-4zM36 60h4v4h-4z"/>
+<path fill="#06030b" d="M0 0h4v4h-4zM20 0h4v4h-4zM28 0h4v4h-4zM44 0h8v4h-8zM0 4h4v4h-4zM8 4h4v4h-4zM24 4h4v4h-4zM40 4h8v4h-8zM60 4h4v4h-4zM24 8h4v4h-4zM60 8h4v4h-4zM24 12h4v4h-4zM32 12h4v4h-4zM48 12h4v4h-4zM56 12h4v4h-4zM44 16h12v4h-12zM60 16h4v4h-4zM24 20h16v4h-16zM48 20h8v4h-8zM8 24h4v4h-4zM32 24h4v4h-4zM48 24h4v4h-4zM60 24h4v4h-4zM0 28h4v4h-4zM36 32h4v4h-4zM20 36h4v4h-4zM36 36h4v4h-4zM48 36h4v4h-4zM56 36h8v4h-8zM4 40h8v4h-8zM16 40h12v4h-12zM32 40h8v4h-8zM52 40h4v4h-4zM8 44h8v4h-8zM24 44h4v4h-4zM32 44h4v4h-4zM0 48h4v4h-4zM44 48h4v4h-4zM60 48h4v4h-4zM12 52h12v4h-12zM40 52h12v4h-12zM60 52h4v4h-4zM8 56h8v4h-8zM20 56h4v4h-4zM28 56h8v4h-8zM48 56h4v4h-4zM60 56h4v4h-4zM4 60h4v4h-4zM20 60h4v4h-4zM40 60h24v4h-24z"/>
+<path fill="#100c1c" d="M24 0h4v4h-4zM12 4h4v4h-4zM20 4h4v4h-4zM36 4h4v4h-4zM56 4h4v4h-4zM36 8h8v4h-8zM48 8h4v4h-4zM12 12h8v4h-8zM28 12h4v4h-4zM36 12h4v4h-4zM52 12h4v4h-4zM8 16h12v4h-12zM0 20h12v4h-12zM20 20h4v4h-4zM0 24h8v4h-8zM12 24h4v4h-4zM8 28h4v4h-4zM16 28h8v4h-8zM28 28h4v4h-4zM16 32h12v4h-12zM52 32h12v4h-12zM4 36h4v4h-4zM16 36h4v4h-4zM32 36h4v4h-4zM44 36h4v4h-4zM52 36h4v4h-4zM0 40h4v4h-4zM28 40h4v4h-4zM48 40h4v4h-4zM4 44h4v4h-4zM16 44h4v4h-4zM28 44h4v4h-4zM48 44h16v4h-16zM12 48h4v4h-4zM20 48h12v4h-12zM40 48h4v4h-4zM48 48h4v4h-4zM56 48h4v4h-4zM8 52h4v4h-4zM28 52h12v4h-12zM16 56h4v4h-4zM36 56h8v4h-8zM0 60h4v4h-4zM12 60h4v4h-4zM24 60h4v4h-4zM32 60h4v4h-4z"/>
+<path fill="#271e3d" d="M40 0h4v4h-4zM52 0h4v4h-4zM60 0h4v4h-4zM48 4h4v4h-4zM16 8h4v4h-4zM28 8h8v4h-8zM52 8h4v4h-4zM8 12h4v4h-4zM20 12h4v4h-4zM4 16h4v4h-4zM44 20h4v4h-4zM16 24h4v4h-4zM28 24h4v4h-4zM40 24h4v4h-4zM56 28h4v4h-4zM12 32h4v4h-4zM28 32h8v4h-8zM48 32h4v4h-4zM0 36h4v4h-4zM24 36h8v4h-8zM60 40h4v4h-4zM44 44h4v4h-4zM32 48h4v4h-4zM0 52h8v4h-8zM56 52h4v4h-4zM4 56h4v4h-4zM24 56h4v4h-4zM28 60h4v4h-4z"/>
+<path fill="#3b2754" d="M36 0h4v4h-4zM56 0h4v4h-4zM32 4h4v4h-4zM52 4h4v4h-4zM8 8h8v4h-8zM4 12h4v4h-4zM40 20h4v4h-4zM20 24h8v4h-8zM12 28h4v4h-4zM52 28h4v4h-4zM8 32h4v4h-4zM36 44h8v4h-8zM4 48h8v4h-8zM36 48h4v4h-4zM52 48h4v4h-4z"/>
+</pattern>
+</defs>
+<rect x="0" y="0" width="768" height="1024" fill="url(#lava_still)"/>
+<rect x="0" y="128" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="64" y="128" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="0" y="192" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="64" y="192" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="128" y="192" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="64" y="256" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="128" y="256" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="576" y="384" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="640" y="384" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="512" y="448" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="576" y="448" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="640" y="448" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="704" y="448" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="576" y="512" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="640" y="512" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="704" y="512" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="128" y="768" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="192" y="768" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="64" y="832" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="128" y="832" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="192" y="832" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="256" y="832" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="128" y="896" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="192" y="896" width="64" height="64" fill="url(#obsidian)"/>
+<rect x="0" y="0" width="768" height="1024" fill="#802508" opacity="0.12"/>
+</svg>
